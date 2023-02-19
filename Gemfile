@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'webrick'
+  gem 'jekyll-relative-links'
 end

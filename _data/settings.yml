@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
-  favicon_image: /images/favicon.png
+  site_title: van
+  site_tagline: An off-grid campervan in a farmhouse-aesthetic
+  favicon_image: /img/favicon.png
 
 header_settings:
   logo_image: 
@@ -9,14 +9,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
+    - title: 'About Me'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Thanks'
+      url: '/Thanks-Gratitude'
 
 grid_settings:
   overlay_opacity: 0.8

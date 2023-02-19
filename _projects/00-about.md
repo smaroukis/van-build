@@ -1,106 +1,125 @@
 ---
-title: '00-About'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-portrait.jpg'
+date: 2020-06-25
+index: 1
+title: "00 About This Project"
+featured_image: /img/00-header.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+Over two years I took an empty Ford Transit cargo van and converted it from bare metal to an off-grid camper van:
 
-## Demo content
-
-Link to another page 
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
+<div class="gallery" data-columns="2">
+	<img src="/img/00-header.jpg">
+	<img src="/img/about-finished.jpg">
+</div>
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/img/10-header.jpg">
+	<img src="img/countertop-window.jpg">
+	<img src = "img/final-kitchen.jpg">
+	<img src="img/shower-header.jpg">
+	<img src = "img/ladder-tire-rack-outside-shower.jpg"> 
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+This website has two purposes 1) to document and share the build with others and 2) to eternally enshrine the build, and all the blood sweat and tears that I put into it. 
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+For build questions reach out via the [contact form](contact) on this site or through the social links at <https://maroukis.net>.
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+## Thanks
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+I couldn't have done this without the support of friends and family. Special thanks goes to my partner Midori, my parents, Andy, Jaymi, Takako, Dennis, and Steph (pictures in [Thanks-Gratitude](Thanks-Gratitude.md))
 
----
+## What I Learned
 
-### Image carousels
+This project shaped me more than I could've imagined. As Churchill rightly put,
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+> We shape our ~~buildings~~ van; thereafter it shapes us. 
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+Some things I learned along the way
+- welding
+- battery chemistry and testing
+- solar design, selection, and charging
+- electrical codes for boats (e.g. ABYC) - useful for RVs too
+- plumbing - fitting selection, filtration systems
+- hydronic heat exchangers 
+- 3D modeling in AutoCad
+- woodworking - cabinets and drawers
+- design process 
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+## Index
 
-### What about videos?
+[01-Build-Features-Design](01-Build-Features-Design.md)
+- [Feature-List](Feature-List.md)
+- [Design-Function-Layout](Design-Function-Layout.md)
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+[02-Framing-Insulation-Window](02-Framing-Insulation-Window.md)
+- [Insulation-Framing](Insulation-Framing.md)
+- [Driver-Side-Window](Components/Driver-Side-Window.md)
 
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[03-Hardwood-Floors-Partition-Wall](03-Hardwood-Floors-Partition-Wall.md) 
+- [Hardwood-Floors](Hardwood-Floors.md)
+- [Walls-Partition-Wall](Walls-Partition-Wall.md)
 
----
+[04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan.md)
+- [Skylight and Fan](Components/Skylight%20and%20Fan.md)
+- [Ceiling](Components/Ceiling.md)
 
-## Pretty cool, huh?
+[05-Bed-Frame](05-Bed-Frame.md)
 
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
+[06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md)
+- [Inverter-Charger](Components/Inverter-Charger.md)
+- [Induction-Cooktop](Components/Induction-Cooktop.md)
+- [Solar-Panels](Components/Solar-Panels.md)
+- [Alternator-Charger](Components/Alternator-Charger.md)
+- [Batteries](Components/Batteries.md)
+- [Battery-Monitor-and-Relay](Components/Battery-Monitor-and-Relay.md)
+- [Main-Battery-Disconnect](Components/Main-Battery-Disconnect.md)
+- [12V-System](Components/12V-System.md)
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+[07-Plumbing-Tanks-Shower-Hot-Water-Toilet](07-Plumbing-Tanks-Shower-Hot-Water-Toilet.md)
+- [Water-Tanks-Sensors](Components/Water-Tanks-Sensors.md)
+- [Water-Heater](Components/Water-Heater.md)
+- [Water Pump](Components/Water%20Pump.md)
+- [Water-Filter](Components/Water-Filter.md)
+
+[08-Shower-Toilet-Heater](08-Shower-Toilet-Heater.md)
+- [Shower](Shower.md)
+- [Toilet](Components/Toilet.md)
+- [Air-Heating](Components/Air-Heating.md)
+
+[09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge](09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge.md)
+- [Kitchen-Countertop](Kitchen-Countertop.md)
+- [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers.md)
+- [Fridge](Components/Fridge.md)
+- [Induction-Cooktop](Components/Induction-Cooktop.md)
+
+[10-Recessed-Cabinets-Table-Final-Trim](10-Recessed-Cabinets-Table-Final-Trim.md)
+- [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table.md)
+- [Final-Trimmings](Final-Trimmings.md)
+
+[11-External-Roof-Rack-Cell-Booster-Ladder-Rack](11-External-Roof-Rack-Cell-Booster-Ladder-Rack.md)
+- [Roof-Rack](Components/Roof-Rack.md)
+- [Cell-Booster](Components/Cell-Booster.md)
+- [Ladder-Tire-Rack](Components/Ladder-Tire-Rack.md)
+- [Tires-Wheels](Components/Tires-Wheels.md)
+
+[12-Honorable-Mentions](12-Honorable-Mentions.md)
+
+[Thanks-Gratitude](Thanks-Gratitude.md)
+
+## Build Photos
+
+![IMG_7473](img/IMG_7473.jpeg)
+
+
+![FullSizeRender](img/FullSizeRender.jpg)
+
+![bed-frame-header](img/bed-frame-header.png)
+
+![PXL_20220506_212623215_Original](img/PXL_20220506_212623215_Original.jpg)
+
+
+![IMG_4650](img/IMG_4650.jpg)
+
+![PXL_20220506_212005722_Original](img/PXL_20220506_212005722_Original.jpg)
+
+Next: [01-Build-Features-Design](01-Build-Features-Design.md)

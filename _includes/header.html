@@ -31,8 +31,8 @@
 
 		<div class="projects-menu">
 			<ul class="menu__list">
-				{% assign sorted_projects = site.projects | sort: 'url' %}
-				{% for project in site.projects %}
+				{% assign sorted_projects = site.projects | sort: 'index' %}
+				{% for project in sorted_projects %}
 				<li class="menu__list__item">
 					<a href="{{ project.url | relative_url }}" class="menu__list__item__link">{{ project.title }}</a>
 				</li>
