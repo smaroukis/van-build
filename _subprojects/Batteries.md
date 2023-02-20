@@ -1,16 +1,18 @@
+---
+index: 17
+title: "→ LiFePO4 Batteries"
+featured_image: /img/12-header.png
+---
 
 Mfg. / Part #: Renogy 200Ah LIFEPO4
 Tags: battery, electrical
-
-Eventually the custom built battery banks were replaced with a Renogy set. 
-![12-header](img/12-header.png)
-
-
 
 ## Summary
 - 2 x 200Ah Lithium Iron Phosphate (LiFePO4) Renogy batteries
 - Victron BMV712 battery shunt for monitoring State of Charge and controlling the [Main-Battery-Disconnect](Main-Battery-Disconnect.md) contactor for under voltage or state of charge trip off. 
 - wired into a custom copper bus bar through ML-RBS which functions as the main shutoff switch.
+
+**System Diagram:**
 
 ![system-solar](img/system-solar.png)
 
@@ -20,23 +22,17 @@ The chemistry Lithium Iron Phosphate, or LiFePO4, is relatively new and expensiv
 
 Typical charging voltages are 14.2V and typical discharging voltages (active load) are 12-13V. Discharging, e.g. when the induction stove is on, will always depress the voltage, more so at low SoC.
 
-<aside>
-⚠️ If you see voltages out of these parameters you may want to take a closer look at the battery health.
-
-</aside>
+> ⚠️ If you see voltages out of the typical (charging ~14.2, discharging ~12-13) you may want to take a closer look at the battery health.
 
 A typical LiFePO4 battery SoC vs voltage curve is as follows: 
 
 ![6AC9E8FD-6F2B-4B66-A2C2-315A9B229882.png](img/6AC9E8FD-6F2B-4B66-A2C2-315A9B229882.png)
 
-<aside>
-⚠️ Due to the flatness of the LiFePO voltage vs SoC curve, we cannot use voltage as a good measure of how much energy is left in the batery
-
-</aside>
+⚠️ Due to the flatness of the LiFePO voltage vs SoC curve, we cannot use voltage as a good measure of how much energy is left in the battery → this is why we need a good shunt monitor (→ [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay.md))
 
 You can inspect the battery health by performing load tests (search on Youtube). Each battery should be tested separately, as one bad battery can draw the voltage down of the other. 
 
-To know the SoC we use the Victron BMV-712 which is connected to the Battery Shunt - all current must go through this shunt so it knows how much has left or entered the battery system at any moment
+To know the State of Charge we use the Victron BMV-712 which is connected to the Battery Shunt - all current must go through this shunt so it knows how much has left or entered the battery system at any moment
 
 In the diagram you can see the Shunt is connected between the Negative of the paralleled batteries and the main negative bus bar (labeled 0V). All current must go through this return path, so the Shunt passes this information to the BMV, which shows the State of Charge on the display, or the app. 
 
@@ -46,7 +42,7 @@ In the diagram you can see the Shunt is connected between the Negative of the pa
 
 ⚠️ The batteries should **not** be charged when the temperature is below freezing. Make sure the Victron Connect app has the Smart Solar Charger set to not charge for temperatures below 2 degrees celsius, and that there is an alarm set for low temperature in the BMV relay.
 
-## Index of Terms
+**Definitions**
 
 - SoC: State of Charge, expressed in % full
 - DoD: Depth of Discharge; DoD is just the complement of SoC: DOD =  100% - SoC
@@ -55,3 +51,8 @@ In the diagram you can see the Shunt is connected between the Negative of the pa
 - LiFePO4: Lithium Iron Phosphate - a type of battery chemistry
 - BMS: Battery Management System - protects the internal battery cells from over/under voltage (usually inaccessible to the user)
 - BMV: Battery Voltage Monitor - here we are talking about the Victron BMV 712; this provides the *system* level over and under voltage protection
+
+
+## Aside
+
+You'll notice the Batteries page featured image is different than some of the others. This is because I originally built my own bank out of individual 3.65V cells, and later upgraded to a trusted brand before selling the van (→ [12-Honorable-Mentions](12-Honorable-Mentions.md)). 

@@ -64,20 +64,19 @@ Some things I learned along the way
 
 [05-Bed-Frame](05-Bed-Frame.md)
 
-[06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md)
-- [Inverter-Charger](Inverter-Charger.md)
-- [Induction-Cooktop](Induction-Cooktop.md)
+[06-Electrical-Systems](06-Electrical-Systems.md)
 - [Solar-Panels](Solar-Panels.md)
-- [Alternator-Charger](Alternator-Charger.md)
 - [Batteries](Batteries.md)
 - [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay.md)
 - [Main-Battery-Disconnect](Main-Battery-Disconnect.md)
+- [Alternator-Charger](Alternator-Charger.md)
+- [Inverter-Charger](Inverter-Charger.md)
 - [12V-System](12V-System.md)
 
-[07-Plumbing-Tanks-Shower-Hot-Water-Toilet](07-Plumbing-Tanks-Shower-Hot-Water-Toilet.md)
+[07-Plumbing-Shower-Hot-Water](07-Plumbing-Shower-Hot-Water.md)
 - [Water-Tanks-Sensors](Water-Tanks-Sensors.md)
 - [Water-Heater](Water-Heater.md)
-- [Water Pump](Water%20Pump.md)
+- [Water-Pump](Water-Pump.md)
 - [Water-Filter](Water-Filter.md)
 
 [08-Shower-Toilet-Heater](08-Shower-Toilet-Heater.md)
@@ -85,7 +84,7 @@ Some things I learned along the way
 - [Toilet](Toilet.md)
 - [Air-Heating](Air-Heating.md)
 
-[09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge](09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge.md)
+[09-Kitchen](09-Kitchen.md)
 - [Kitchen-Countertop](Kitchen-Countertop.md)
 - [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers.md)
 - [Fridge](Fridge.md)
@@ -95,7 +94,7 @@ Some things I learned along the way
 - [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table.md)
 - [Final-Trimmings](Final-Trimmings.md)
 
-[11-External-Roof-Rack-Cell-Booster-Ladder-Rack](11-External-Roof-Rack-Cell-Booster-Ladder-Rack.md)
+[11-Roof-Ladder-Rack-Cell-Booster](11-Roof-Ladder-Rack-Cell-Booster.md)
 - [Roof-Rack](Roof-Rack.md)
 - [Cell-Booster](Cell-Booster.md)
 - [Ladder-Tire-Rack](Ladder-Tire-Rack.md)

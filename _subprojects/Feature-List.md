@@ -48,7 +48,7 @@ The van is a 2019 Ford Transit T250 148" Extended Length, 3.7 liter V6 (RWD). He
 
 | Feature                                                                                                            | Link                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| 600W solar with Victron 100/50 Solar Charge Controller                                                             | [06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md) |
+| 600W solar with Victron 100/50 Solar Charge Controller                                                             | [06-Electrical-Systems](06-Electrical-Systems.md) |
 | 400AH LiFePO4 batteries                                                                                            | [Batteries](Batteries.md)                                                    |
 | 60A alternator charger                                                                                             | [Alternator-Charger](Alternator-Charger.md)                                  |
 | 2500W pure sine wave inverter/charger                                                                              | [Inverter-Charger](Inverter-Charger.md)                                      |
@@ -65,7 +65,7 @@ The van is a 2019 Ford Transit T250 148" Extended Length, 3.7 liter V6 (RWD). He
 
 | Feature                                                                                     | Link                                                     | 
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Shurflo 4008 12V water pump with vibration dampening hose                                   | [Water Pump](Water%20Pump.md)                 |
+| Shurflo 4008 12V water pump with vibration dampening hose                                   | [Water-Pump](Water-Pump.md)                 |
 | High quality pex push-to-connect fittings used - resistant to vibration, freezing and leaks |                                                          |
 | 20 gal. fresh water tank - undermount, with exterior gravity-fed fill port                  | [Water-Tanks-Sensors](Water-Tanks-Sensors.md) |
 | 15 gal. gray water tank - undermount                                                        | [Water-Tanks-Sensors](Water-Tanks-Sensors.md) |

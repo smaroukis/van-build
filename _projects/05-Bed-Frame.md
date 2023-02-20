@@ -5,18 +5,22 @@ featured_image: /img/bed-frame-header.png
 ---
 
 ## Summary
-- 1515 series (1.5" x 1.5") T-slotted extruded aluminum (brand name: 80/20), fastened with 1/4" aluminum angle, 5/8" length hex socket bolts, and T-channel sliding nuts
+- 1515 series (1.5" x 1.5") T-slotted extruded aluminum (brand name: 80/20), fastened with 1/4" thick aluminum angle, 1/2" length pan head hex drive bolts, and T-channel sliding nuts
 - faced with various 1/4" oak strips, 1/2" baltic birch, and 1/8" luan plywood
 
-[bed-frame-1](img/bed-frame-1.png)
-[bed-frame-2](img/bed-frame-2.jpg)
-[bed-frame-3](img/bed-frame-3.jpg)
-[toilet-header](img/toilet-header.jpg)
-[bed-frame-5](img/bed-frame-5.jpg)
+> Aluminum was used to save weight since hardwood was being used elsewhere in the van, albeit at a significant increase in cost
+
+<div class='gallery' data-columns='3'>
+	<img src="/img/bed-frame-1.png">
+	<img src="/img/bed-frame-2.jpg">
+	<img src="/img/bed-frame-3.jpg">
+	<img src="/img/toilet-header.jpg">
+	<img src="/img/bed-frame-5.jpg">
+</div>
 
 ## Design
 
-Aluminum is used to save weight, albeit at a significant increase in cost over wood. In my calculations it is about 5x more expensive than building out of wood, but also about 1/3rd lighter, and resistant to mold or warping. 
+Aluminum is used to save weight, albeit at a significant increase in cost over wood. In my calculations it is about 5x more expensive than building out of wood, but also about 1/3rd lighter (depending on face panels), and resistant to mold or warping. 
 
 The design is a U-shape allowing you to sit in the middle and work at a pop-up table (see [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table.md)). It is  also designed so that you could walk through to the rear, which ended up being one of my favorite design features.
 
@@ -82,5 +86,7 @@ Bed with panels removed showing storage
 
 ![bed-frame-design](img/bed-frame-design.jpeg)
 
-Next:  [06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md)
+---
+
+Next:  [06-Electrical-Systems](06-Electrical-Systems.md)
 

@@ -7,7 +7,7 @@ TODO: a final link go through, gallery
 
 ## Project Intro
 
-The van is designed fully off grid with an emphasis on sustainability and safety. With a large enough roof area to fit big solar panels, I was able to power a 1500W induction stove off of a 400Ah LiFePO4 battery bank (→[06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md)). I also added 120V/30A shore power and an [Alternator-Charger](Alternator-Charger.md)  in case the sun isn't shining enough, or it is parked in the shade for an extended period of time. 
+The van is designed fully off grid with an emphasis on sustainability and safety. With a large enough roof area to fit big solar panels, I was able to power a 1500W induction stove off of a 400Ah LiFePO4 battery bank (→[06-Electrical-Systems](06-Electrical-Systems.md)). I also added 120V/30A shore power and an [Alternator-Charger](Alternator-Charger.md)  in case the sun isn't shining enough, or it is parked in the shade for an extended period of time. 
 
 ## Features
 

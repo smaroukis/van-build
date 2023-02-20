@@ -8,9 +8,12 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /blog/:slug
   projects:
+    output: true
+    permalink: /:slug
+  subprojects:
     output: true
     permalink: /:slug
 # `:slug` is url-friendly conversion of title e.g. "My Awesome Title" → "my-awesome-title"
@@ -37,6 +40,12 @@ defaults:
     scope:
       path: ""
       type: "projects"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "subprojects"
     values:
       layout: "project"
 

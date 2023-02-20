@@ -1,4 +1,8 @@
-![plumbing-header-2](img/plumbing-header-2.jpeg)
+---
+index: 23
+title: "07 Plumbing. Shower. Hot Water"
+featured_image: /img/plumbing-header-2.jpeg
+---
 
 ## Plumbing Overview
 - undermount fresh water and grey water tank
@@ -18,13 +22,15 @@ A 20 gallon fresh water tank and a 15 gallon greywater tank are both installed u
 
 See more in [Water-Tanks-Sensors](Water-Tanks-Sensors.md).
 
-The [Water Pump](Water%20Pump.md) is a 12V Shurflo 4008 without an accumulator due to space constraints. 
+The [Water-Pump](Water-Pump.md) is a 12V Shurflo 4008 without an accumulator due to space constraints. 
 
 The fresh water (cold side only) is filtered through a three stage carbon and ceramic APEC [Water-Filter](Water-Filter.md).
 
-[water-filter-header](img/water-filter-header.jpg)
-[pump-header](img/pump-header.jpeg)
-[plumbing-header-2](img/plumbing-header-2.jpeg)
+<div class='gallery' data-columns='3'>
+	<img src="/img/water-filter-header.jpg">
+	<img src="/img/pump-header.jpeg">
+	<img src="/img/plumbing-header-2.jpeg">
+</div>
 
 ## Hot Water
 
@@ -32,14 +38,15 @@ Hot water is provided by the Isotemp SPA tank, which is plumbed in-line with the
 
 See details in  [Water-Heater](Water-Heater.md)
 
-[IMG_2354](img/IMG_2354.jpg)
-[hot-water-header](img/hot-water-header.jpg)
-[coolant-hose-heater-routing](img/coolant-hose-heater-routing.png)
+<div class='gallery' data-columns='3'>
+	<img src="/img/IMG_2354.jpg">
+	<img src="/img/hot-water-header.jpg">
+	<img src="/img/coolant-hose-heater-routing.png">
+</div>
 
 ## Diagrams
 
 ![tanks-header](img/tanks-header.png)
-
 
 ![IMG_2351](img/IMG_2351.jpg)
 
@@ -47,6 +54,8 @@ See details in  [Water-Heater](Water-Heater.md)
 
 ![IMG_0062](img/IMG_0062.jpeg)
 
-
 ![coolant-2.jpeg](img/coolant-2.jpeg)
 
+---
+
+Next: [08-Shower-Toilet-Heater](08-Shower-Toilet-Heater.md)

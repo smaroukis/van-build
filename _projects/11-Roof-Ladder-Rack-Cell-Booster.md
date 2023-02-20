@@ -1,3 +1,9 @@
+---
+index: 40
+title: "11 Exterior Equipment"
+featured_image: /img/ladder-tire-rack-outside-shower.jpg
+---
+
 ![ladder-tire-rack-outside-shower](img/ladder-tire-rack-outside-shower.jpg)
 
 ## Roof Rack and Cell Booster
@@ -10,9 +16,11 @@
 - A WeBoost was installed to boost cell signal in remote areas
 - See [Cell-Booster](Cell-Booster.md)
 
-[roof-rack-header](img/roof-rack-header.jpg)
-[roof-rack-3](img/roof-rack-3.jpg)
-[IMG_4742](img/IMG_4742.jpg)
+<div class='gallery' data-columns='3'>
+	<img src="/img/roof-rack-header.jpg">
+	<img src="/img/roof-rack-3.jpg">
+	<img src="/img/IMG_4742.jpg">
+</div>
 
 ## Ladder Tire Rack and Tires
 
@@ -25,7 +33,8 @@
 - Wheels are Black Rhino 16" Glacier Matte Black
 - For more see [Tires-Wheels](Tires-Wheels.md)
 
-[tires-cover](img/tires-cover.jpg)
+![tires-cover](img/tires-cover.jpg)
 
+---
 
 Next: [12-Honorable-Mentions](12-Honorable-Mentions.md)

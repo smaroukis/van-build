@@ -1,3 +1,9 @@
+---
+index: 42
+title: "→ Cell Booster"
+featured_image: /img/IMG_4742.jpg
+---
+
 Mfg. / Part #: WeBoost Drive Reach RV
 Tags: electrical
 
@@ -13,3 +19,7 @@ The inside repeater is located in the recessed cabinet.
 ![recessed-cabinet-annotated](img/recessed-cabinet-annotated.jpg)
 
 ⚠️ Note you must register your device with your carrier before using this device.
+
+---
+
+Next: [Ladder-Tire-Rack](Ladder-Tire-Rack.md)
