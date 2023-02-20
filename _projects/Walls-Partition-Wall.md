@@ -1,5 +1,8 @@
-
-![walls-header](img/walls-header.png)
+---
+index: 10
+title: "→ Walls. Partition Wall"
+featured_image: /img/walls-header.png
+---
 
 ## Summary
 
@@ -62,5 +65,7 @@ Showing the walls attached
 ![IMG_3400](img/IMG_3400.jpg)
 
 ![walls-2](img/walls-2.jpg)
+
+---
 
 Next:  [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan.md)

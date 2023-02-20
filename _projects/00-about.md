@@ -1,5 +1,4 @@
 ---
-date: 2020-06-25
 index: 1
 title: "00 About This Project"
 featured_image: /img/00-header.jpg
@@ -53,54 +52,54 @@ Some things I learned along the way
 
 [02-Framing-Insulation-Window](02-Framing-Insulation-Window.md)
 - [Insulation-Framing](Insulation-Framing.md)
-- [Driver-Side-Window](Components/Driver-Side-Window.md)
+- [Driver-Side-Window](Driver-Side-Window.md)
 
 [03-Hardwood-Floors-Partition-Wall](03-Hardwood-Floors-Partition-Wall.md) 
 - [Hardwood-Floors](Hardwood-Floors.md)
 - [Walls-Partition-Wall](Walls-Partition-Wall.md)
 
 [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan.md)
-- [Skylight and Fan](Components/Skylight%20and%20Fan.md)
-- [Ceiling](Components/Ceiling.md)
+- [Skylight and Fan](Skylight%20and%20Fan.md)
+- [Ceiling](Ceiling.md)
 
 [05-Bed-Frame](05-Bed-Frame.md)
 
 [06-Electrical-Solar-Inverter-Battery-B2B](06-Electrical-Solar-Inverter-Battery-B2B.md)
-- [Inverter-Charger](Components/Inverter-Charger.md)
-- [Induction-Cooktop](Components/Induction-Cooktop.md)
-- [Solar-Panels](Components/Solar-Panels.md)
-- [Alternator-Charger](Components/Alternator-Charger.md)
-- [Batteries](Components/Batteries.md)
-- [Battery-Monitor-and-Relay](Components/Battery-Monitor-and-Relay.md)
-- [Main-Battery-Disconnect](Components/Main-Battery-Disconnect.md)
-- [12V-System](Components/12V-System.md)
+- [Inverter-Charger](Inverter-Charger.md)
+- [Induction-Cooktop](Induction-Cooktop.md)
+- [Solar-Panels](Solar-Panels.md)
+- [Alternator-Charger](Alternator-Charger.md)
+- [Batteries](Batteries.md)
+- [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay.md)
+- [Main-Battery-Disconnect](Main-Battery-Disconnect.md)
+- [12V-System](12V-System.md)
 
 [07-Plumbing-Tanks-Shower-Hot-Water-Toilet](07-Plumbing-Tanks-Shower-Hot-Water-Toilet.md)
-- [Water-Tanks-Sensors](Components/Water-Tanks-Sensors.md)
-- [Water-Heater](Components/Water-Heater.md)
-- [Water Pump](Components/Water%20Pump.md)
-- [Water-Filter](Components/Water-Filter.md)
+- [Water-Tanks-Sensors](Water-Tanks-Sensors.md)
+- [Water-Heater](Water-Heater.md)
+- [Water Pump](Water%20Pump.md)
+- [Water-Filter](Water-Filter.md)
 
 [08-Shower-Toilet-Heater](08-Shower-Toilet-Heater.md)
 - [Shower](Shower.md)
-- [Toilet](Components/Toilet.md)
-- [Air-Heating](Components/Air-Heating.md)
+- [Toilet](Toilet.md)
+- [Air-Heating](Air-Heating.md)
 
 [09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge](09-Kitchen-Counter-Cabinets-Drawers-Stove-Fridge.md)
 - [Kitchen-Countertop](Kitchen-Countertop.md)
 - [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers.md)
-- [Fridge](Components/Fridge.md)
-- [Induction-Cooktop](Components/Induction-Cooktop.md)
+- [Fridge](Fridge.md)
+- [Induction-Cooktop](Induction-Cooktop.md)
 
 [10-Recessed-Cabinets-Table-Final-Trim](10-Recessed-Cabinets-Table-Final-Trim.md)
 - [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table.md)
 - [Final-Trimmings](Final-Trimmings.md)
 
 [11-External-Roof-Rack-Cell-Booster-Ladder-Rack](11-External-Roof-Rack-Cell-Booster-Ladder-Rack.md)
-- [Roof-Rack](Components/Roof-Rack.md)
-- [Cell-Booster](Components/Cell-Booster.md)
-- [Ladder-Tire-Rack](Components/Ladder-Tire-Rack.md)
-- [Tires-Wheels](Components/Tires-Wheels.md)
+- [Roof-Rack](Roof-Rack.md)
+- [Cell-Booster](Cell-Booster.md)
+- [Ladder-Tire-Rack](Ladder-Tire-Rack.md)
+- [Tires-Wheels](Tires-Wheels.md)
 
 [12-Honorable-Mentions](12-Honorable-Mentions.md)
 
@@ -115,11 +114,12 @@ Some things I learned along the way
 
 ![bed-frame-header](img/bed-frame-header.png)
 
-![PXL_20220506_212623215_Original](img/PXL_20220506_212623215_Original.jpg)
+![window-1](img/window-1.png)
 
+![walls-header](img/walls-header.png)
 
-![IMG_4650](img/IMG_4650.jpg)
+![hardwood-2](img/hardwood-2.jpeg)
 
-![PXL_20220506_212005722_Original](img/PXL_20220506_212005722_Original.jpg)
+---
 
 Next: [01-Build-Features-Design](01-Build-Features-Design.md)

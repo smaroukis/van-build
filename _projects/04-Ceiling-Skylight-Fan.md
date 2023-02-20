@@ -1,33 +1,41 @@
-Previous:: [03-Hardwood-Floors-Partition-Wall](03-Hardwood-Floors-Partition-Wall.md)
-Next:  [05-Bed-Frame](05-Bed-Frame.md)
-
+---
+index: 11
+title: "04 Ceiling. Skylight. Fan"
+featured_image: /img/skylight-fan-header.jpg
+---
 ## Skylight and Fan
 
 **Skylight**
-The model was chosen because it was one of the largest and it opened to allow access to the roof (it was purchased on ebay, but is now discontinued). One of the crossmembers of the van frame had to be removed due to the final location of the skylight, but that area was reinforced. The installation was tricky due to the curved surface of the Ford Transit roof - other models like the Ram Promaster may be more suited to skylight installation. 
 
-[skylight-fan-header](img/skylight-fan-header.jpg)
-[skylight-1](img/skylight-1.jpeg)
-[skylight-2](img/skylight-2.jpeg)
-[skylight-3](img/skylight-3.jpg)
-[skylight-4](img/skylight-4.png)
+We installed the largest skylight we could find. Installation was tricky, due to the curved roof of the Ford Transit and the location of the skylight required removal of one of the crossmembers. But the views of the stars at night are worth the trouble.
+
+<div class='gallery' data-columns='3'>
+	<img src="/img/skylight-fan-header.jpg">
+	<img src="/img/skylight-1.jpeg">
+	<img src="/img/skylight-2.jpeg">
+	<img src="/img/skylight-3.jpg">
+	<img src="/img/skylight-4.png">
+</div>
 
 **Fan**
+
 A MaxxAir MaxxFan Deluxe 7000K model was installed as it allows for the fan to be on even during rainy conditions.
 
-[maxxair-header](img/maxxair-header.jpg)
-
-For more details on both see[Skylight and Fan](Components/Skylight%20and%20Fan.md).
+For more details on both see [Skylight and Fan](Skylight%20and%20Fan.md).
 
 ## Ceiling 
 
 The ceiling was made out of the same 1/8" thick cedar tongue and groove strips as the partition wall facing, which allowed the ceiling to flex to the curvature of the van. The front and rear end battens were tricky since there aren't van cross members, so some creativity and custom brackets were required.
 
-For more details see [Ceiling](Components/Ceiling.md).
+For more details see [Ceiling](Ceiling.md).
 
-[ceiling-header](img/ceiling-header.jpg)
-[ceiling-1](img/ceiling-1.jpeg)
-[ceiling-2](img/ceiling-2.jpeg)
-[ceiling-3](img/ceiling-3.jpg)
+<div class='gallery' data-columns='3'>
+	<img src="/img/ceiling-header.jpg">
+	<img src="/img/ceiling-1.jpeg">
+	<img src="/img/ceiling-2.jpeg">
+	<img src="/img/ceiling-3.jpg">
+</div>
+
+---
 
 Next: [05-Bed-Frame](05-Bed-Frame.md)

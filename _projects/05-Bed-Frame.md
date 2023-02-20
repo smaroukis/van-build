@@ -1,4 +1,8 @@
-![bed-frame-header](img/bed-frame-header.png)
+---
+title: "05 Bed Frame"
+index: 14
+featured_image: /img/bed-frame-header.png
+---
 
 ## Summary
 - 1515 series (1.5" x 1.5") T-slotted extruded aluminum (brand name: 80/20), fastened with 1/4" aluminum angle, 5/8" length hex socket bolts, and T-channel sliding nuts

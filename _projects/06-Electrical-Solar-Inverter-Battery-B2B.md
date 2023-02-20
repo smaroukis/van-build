@@ -15,22 +15,22 @@
 
 > Lithium Ion Phosphate (LiFePO4) batteries, although expensive, were chosen due to the ability to discharge down to a lower state of charge, and for the high discharge current capacity useful for the power-hungry induction cooktop. 
 
-> For an off-grid camper-van, multiple power sources are important. In addition to solar there is an [Alternator-Charger](Components/Alternator-Charger.md) backup and a 120V shore power plug.
+> For an off-grid camper-van, multiple power sources are important. In addition to solar there is an [Alternator-Charger](Alternator-Charger.md) backup and a 120V shore power plug.
 
 ## Index
 
 | System     | Component                           | Model                         |
 | ---------- | ----------------------------------- | ----------------------------- |
-| 120V AC    | [Inverter-Charger](Components/Inverter-Charger.md)                | AIMS 2500W Inverter/Charger   |
-| 120V AC    | [Induction-Cooktop](Components/Induction-Cooktop.md)               | Summit Appliance              |
-| Solar      | [Solar-Panels](Components/Solar-Panels.md)                    | 2 x 300W Renogy 24V Panels    |
+| 120V AC    | [Inverter-Charger](Inverter-Charger.md)                | AIMS 2500W Inverter/Charger   |
+| 120V AC    | [Induction-Cooktop](Induction-Cooktop.md)               | Summit Appliance              |
+| Solar      | [Solar-Panels](Solar-Panels.md)                    | 2 x 300W Renogy 24V Panels    |
 | Solar      | Solar Charger                       | Victron 100/50 Smart Solar    | 
-| Alternator | [Alternator-Charger](Components/Alternator-Charger.md)              | Sterling B2B 1260             |
-| Batteries  | [Batteries](Components/Batteries.md)                       | 2 x 200Ah Renogy LiFePO4      |
-| 12V DC     | [Battery-Monitor-and-Relay](Components/Battery-Monitor-and-Relay.md) | Victron BMV 712               |
-| 12V DC     | [Main-Battery-Disconnect](Components/Main-Battery-Disconnect.md)         | Blue Seas ML-RBS 7700         |
-| 12V DC     | [12V-System](Components/12V-System.md)                      |                               |
-| 12V DC     | [Fridge](Components/Fridge.md)                          | Isotherm Cruise Elegance 130L |
+| Alternator | [Alternator-Charger](Alternator-Charger.md)              | Sterling B2B 1260             |
+| Batteries  | [Batteries](Batteries.md)                       | 2 x 200Ah Renogy LiFePO4      |
+| 12V DC     | [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay.md) | Victron BMV 712               |
+| 12V DC     | [Main-Battery-Disconnect](Main-Battery-Disconnect.md)         | Blue Seas ML-RBS 7700         |
+| 12V DC     | [12V-System](12V-System.md)                      |                               |
+| 12V DC     | [Fridge](Fridge.md)                          | Isotherm Cruise Elegance 130L |
 
 
 ## System Diagrams 

@@ -1,6 +1,8 @@
-![03-hardwood-walls-cover](img/03-hardwood-walls-cover.jpg)
-
-
+---
+index: 8
+title: "03 Hardwood Floors. Walls"
+featured_image: /img/hardwood-header-2.jpg
+---
 
 ## Hardwood Floors
 
@@ -10,10 +12,12 @@ Since they were reclaimed and had their own character (read: warping), I filled 
 
 For full details see [Hardwood-Floors](Hardwood-Floors.md).
 
-[hardwood-header-2](img/hardwood-header-2.jpg)
-[hardwood-1](img/hardwood-1.jpg)
-[hardwood-2](img/hardwood-2.jpeg)
-[hardwood-3](img/hardwood-3.jpg)
+<div class='gallery' data-columns='3'>
+	<img src="/img/hardwood-header-2.jpg">
+	<img src="/img/hardwood-1.jpg">
+	<img src="/img/hardwood-2.jpeg">
+	<img src="/img/hardwood-3.jpg">
+</div>
 
 ## Walls and Partition Wall
 
@@ -29,9 +33,13 @@ For full details see [Hardwood-Floors](Hardwood-Floors.md).
 
 For more details and build photos see [Walls-Partition-Wall](Walls-Partition-Wall.md).
 
-[walls-header](img/walls-header.png)
-[walls-1](img/walls-1.jpg)
-[walls-2](img/walls-2.jpg)
+<div class='gallery' data-columns='3'>
+	<img src="/img/walls-header.png">
+	<img src="/img/walls-1.jpg">
+	<img src="/img/walls-2.jpg">
+</div>
+
+---
 
 Next:  [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan.md)
 

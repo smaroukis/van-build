@@ -1,7 +1,8 @@
 ---
 title: "Thanks and Gratitude"
+index: 99
+TODO: move out of projects
 ---
-
 
 > To be grateful involves a sense of one's own insufficiency and a recognition that the gift comes from another; it is an acknowledgement that one has received something that one did not deserve
 > 

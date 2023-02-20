@@ -1,5 +1,8 @@
-
-![hardwood-header](img/hardwood-header.jpg)
+---
+index: 9
+title: "→ Hardwood Floors"
+featured_image: /img/hardwood-header.jpg
+---
 
 Ok bare with me: hardwood floors are **not** the easiest to install, **nor** the lightest **nor** most wear resistant, but when you are presented with a whole barn full of reclaimed poplar and oak, it is a hard prospect to pass up. 
 
@@ -52,5 +55,7 @@ Thin shims were used to fill gaps that widened after a few months, and then I us
 
 
 ![hardwood-header-2](img/hardwood-header-2.jpg)
+
+---
 
 Next:  [Walls-Partition-Wall](Walls-Partition-Wall.md)

@@ -1,11 +1,8 @@
 ---
 index: 4
-title: "Design and Layout"
+title: "→ Design and Layout"
 featured_image: /img/design-header.jpg
 ---
-
-TODO: images to gallery
-
 
 The goal of the build is as more than just a weekender, but fully livable. Since the van is the extended length version, we decided to put the shower in the back as a wet room. 
 
@@ -36,41 +33,34 @@ Original design with final layout in red. Right side is towards the front of the
 
 ![IMG_9511](img/IMG_9511.jpg)
 
-Design of the bed panels:
+Design of the bed panels, cabinet and electrical routing:
 
-![bed-frame-design](img/bed-frame-design.jpeg)
-
-Design of the cabinet:
-
-![design-header](img/design-header.jpg)
-
-Laying out electrical, to go under the floor: 
-
-![sketch_elec_layout](img/sketch_elec_layout.jpg)
+<div class="gallery" data-columns="3">
+	<img src="/img/bed-frame-design.jpeg">
+	<img src="/img/design-header.jpg">
+	<img src="/img/sketch_elec_layout.jpg">
+</div>
 
 ### Bed Frame and Table Cabinet
 
 The bed is built from 80-20 aluminum (see [05-Bed-Frame](05-Bed-Frame.md)), allowing for seating in the middle once the top pieces are removed and slid over. On the left side, the cabinet folds down to rest on a post that comes up in the middle, to create a large table. 
 
-In bed mode: 
-![01-header](img/01-header.jpg)
+> The bed has three modes: 1) Bed, 2) Walk-Through and 3) Table
 
-In walk-through mode:
-![bed-frame-5](img/bed-frame-5.jpg)
-
-
-In table mode:
-![10-header](img/10-header.jpg)
-
+<div class="gallery" data-columns="3">
+	<img src="/img/01-header.jpg">
+	<img src="/img/bed-frame-5.jpg">
+	<img src="/img/10-header.jpg">
+</div>
 
 ### Storage
 
-Overhead storage
-![IMG_4674 1](img/IMG_4674%201.jpg)
+> Storage was added to all the nooks and crannies, for example under the walk way of the bed, under the fridge, and above the cab.
 
-Fridge sits on supports to allow storage underneath
-
-![fridge](img/fridge.jpeg)
+<div class="gallery" data-columns="2">
+	<img src="/img/IMG_4674%201.jpg">
+	<img src="/img/fridge.jpeg">
+</div>
 
 
 ## Trim
@@ -79,7 +69,8 @@ Since the floor was a mixture of oak and poplar, I wanted to continue that inter
 
 ![hardwood-header-2](img/hardwood-header-2.jpg)
 
-
 ![trim-header-2](img/trim-header-2.jpg)
+
+---
 
 Next:  [02-Framing-Insulation-Window](02-Framing-Insulation-Window.md)
