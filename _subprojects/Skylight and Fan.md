@@ -77,7 +77,7 @@ Showing the sheet metal screws coming through the roof and the flange bracket.
 ![IMG_1701](img/IMG_1701.jpg)
 
 Before final trim: 
-![skylight-3](img/skylight-3.jpg)
+![skylight-3](img/skylight-capitan.jpg)
 
 
 ## Fan

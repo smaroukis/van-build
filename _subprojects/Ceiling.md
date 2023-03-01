@@ -36,4 +36,4 @@ Front end batten used the frame we had built for the partition wall as well as t
 
 ---
 
-Next:  [05-Bed-Frame](05-Bed-Frame.md)
+Next:  [Bed-Frame-Details](Bed-Frame-Details.md)

@@ -47,12 +47,11 @@ Sanding
 
 ![hardwood-3](img/hardwood-3.jpg)
 
-![12708E2F-9D9A-4712-B695-37162FC5A967](img/12708E2F-9D9A-4712-B695-37162FC5A967.jpg)
+![hardwood-sanding](img/hardwood-sanding.jpg)
 
 Thin shims were used to fill gaps that widened after a few months, and then I used commercial grade pore filler. Three coats of of shiny polyurethane was applied
 
 ![IMG_3315](img/IMG_3315.jpg)
-
 
 ![hardwood-header-2](img/hardwood-header-2.jpg)
 

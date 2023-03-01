@@ -29,9 +29,12 @@ featured_image: /img/ladder-tire-rack-outside-shower.jpg
 - See [Ladder-Tire-Rack](Ladder-Tire-Rack.md)
 
 **Tires and Wheels**
-- Tires are BF Goodrich KO2 T/A LT255/70R16/E 120 (the largest you can add without modifying the pinch weld)
-- Wheels are Black Rhino 16" Glacier Matte Black
-- For more see [Tires-Wheels](Tires-Wheels.md)
+
+The tires are BF Goodrich KO2 T/A LT255/70R16/E 120 (the largest you can add without modifying the pinch weld).
+
+The wheels are Black Rhino 16" Glacier Matte Black.
+
+For more see [Tires-Wheels](Tires-Wheels.md).
 
 ![tires-cover](img/tires-cover.jpg)
 

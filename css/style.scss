@@ -164,4 +164,14 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_portfolio";
 @import "_includes/_blog";
 
+// - - - - - - - - - - Custom smaroukis
+
+#index-intro a {
+    font-weight: $bold-weight;
+    border-bottom: 2px solid $accent-color;
+}
+
+section #index-intro {
+    padding-bottom: 30px;
+}
 

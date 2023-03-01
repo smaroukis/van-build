@@ -28,4 +28,4 @@ Custom bus bar made from copper.
 
 ---
 
-Next: [07-Plumbing-Shower-Hot-Water](07-Plumbing-Shower-Hot-Water.md)
+Next: [07-Plumbing-Water-Heater](07-Plumbing-Water-Heater.md)

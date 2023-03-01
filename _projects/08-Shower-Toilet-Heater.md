@@ -5,11 +5,12 @@ featured_image: /img/08-header.jpg
 ---
 
 ## Shower
-- the shower is built around a custom fabricated stainless steel shower pan
-- two and a half walls are made out of smooth fiberglass reinforced plastic (FRP)
-- a curtain covers the rest of the area
-- a mounting bracket for the shower head is installed on the rear door to allow for outdoor showers
-- see [Shower](Shower.md) for details
+
+The shower is built around a custom fabricated stainless steel shower pan with two and a half walls made out of smooth fiberglass reinforced plastic (FRP). A curtain covers the rest of the area.
+
+A mounting bracket for the shower head is installed on the rear door to allow for outdoor showers.
+
+See [Shower](Shower.md) for details.
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/08-header.jpg">
@@ -19,12 +20,16 @@ featured_image: /img/08-header.jpg
 </div>
 
 ## Toilet
-- a composting toilet (Nature's Head) is installed with the exhaust fan routed through the van floor 
-- see [Toilet](Toilet.md) for details
+
+A composting toilet (Nature's Head) is installed with the exhaust fan routed through the van floor.
+
+See [Toilet](Toilet.md) for details.
 
 ## Heating (Air)
-- a gasoline fired air heater (Webasto Air Top 2000 STC) is plumbed into the existing gasoline fuel tank 
-- see [Air-Heating](Air-Heating.md) for details
+
+A gasoline fired air heater (Webasto Air Top 2000 STC) is plumbed into the existing gasoline fuel tank.
+
+See [Air-Heating](Air-Heating.md) for details.
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/heating-cover.jpeg">

@@ -30,7 +30,7 @@ The partition wall frame is built off part of the metal framing of the van - the
 
 ![walls-header](img/walls-header.png)
 
-![IMG_1310-gif](img/IMG_1310-gif.gif)
+![IMG_1310-gif](img/walls-gif-1.gif)
 
 ![walls-1](img/walls-1.jpg)
 
@@ -59,10 +59,11 @@ For the entry area I knew I wanted to have a clean carpeted appearance with no e
 
 The contour was traced out and a wood facing was screwed to the furring strip to give a solid place to adhere carpet. Later the exposed edging would be faced with vinyl U-channel going around all the way around.
 
-![IMG_3387](img/IMG_3387.jpg)
+![IMG_3387](img/walls-contour.jpg)
 
 Showing the walls attached
-![IMG_3400](img/IMG_3400.jpg)
+
+![IMG_3400](img/walls-contour-2.jpg)
 
 ![walls-2](img/walls-2.jpg)
 

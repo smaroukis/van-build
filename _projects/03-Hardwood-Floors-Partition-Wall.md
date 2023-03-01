@@ -13,30 +13,42 @@ Since they were reclaimed and had their own character (read: warping), I filled 
 For full details see [Hardwood-Floors](Hardwood-Floors.md).
 
 <div class='gallery' data-columns='3'>
-	<img src="/img/hardwood-header-2.jpg">
 	<img src="/img/hardwood-1.jpg">
 	<img src="/img/hardwood-2.jpeg">
-	<img src="/img/hardwood-3.jpg">
+	<img src="/img/hardwood-header.jpg">
+	<img src="/img/hardwood-sanding.jpg">
+	<img src="/img/hardwood-4.jpg">
+	<img src="/img/hardwood-header-2.jpg">
 </div>
 
 ## Walls and Partition Wall
 
 **Partition Wall**
-- a fixed partition wall with double dutch style doors was added for privacy and insulation with access to the cab
-- the same cedar planking later used for the ceiling gives a nice continuous visual transition from the ceiling to the floor
-- the cab overhead was converted to a large storage area
 
-**Other Walls**
-- various spacers and templates were created to fill in the van wall contours 
-- carpet was used on the sliding door and trim areas that had more contours than wood could fill
-- 1/4" luan painted sheeting was nailed into the furring strips (note electrical had to be completed before this step)
+A fixed partition wall with double dutch style doors was added for privacy and insulation while still providing access to the cab. 
+
+The same cedar planking later used for the ceiling (→[Ceiling](Ceiling.md)) gives a nice continuous visual transition from the ceiling to the floor.
+
+The cab overhead was converted to a large storage area. 
+
+<div class='gallery' data-columns='2'>
+	<img src="/img/walls-header.png">
+	<img src="/img/walls-1.jpg">
+</div>
+
+**Side Walls**
+
+Various spacers and templates were created to fill in the van wall contours.
+
+Carpet was used on the sliding door and trim areas that had more contours than wood could fill.
+
+1/4" luan painted sheeting was nailed into the furring strips.
 
 For more details and build photos see [Walls-Partition-Wall](Walls-Partition-Wall.md).
 
-<div class='gallery' data-columns='3'>
-	<img src="/img/walls-header.png">
-	<img src="/img/walls-1.jpg">
-	<img src="/img/walls-2.jpg">
+<div class='gallery' data-columns='2'>
+	<img src="/img/walls-contour.jpg">
+	<img src="/img/walls-contour-2.jpg">
 </div>
 
 ---

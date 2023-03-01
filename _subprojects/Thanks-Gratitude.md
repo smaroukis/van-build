@@ -1,6 +1,7 @@
 ---
 title: "Thanks and Gratitude"
 index: 99
+featured_image: /img/thanks-header.png
 TODO: move out of projects
 ---
 
