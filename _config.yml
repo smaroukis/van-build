@@ -1,7 +1,11 @@
-site: Index Jekyll Theme
+site: Van
 
 url: https://van.maroukis.net
 baseurl: 
+
+destination: docs
+exclude:
+  - docs
 
 collections:
   pages:
