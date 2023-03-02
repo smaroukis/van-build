@@ -43,7 +43,7 @@ Design of the bed panels, cabinet and electrical routing:
 
 ### Bed Frame and Table Cabinet
 
-The bed is built from 80-20 aluminum (see [05-Bed-Frame](05-Bed-Frame.md)), allowing for seating in the middle once the top pieces are removed and slid over. On the left side, the cabinet folds down to rest on a post that comes up in the middle, to create a large table. 
+The bed is built from 80-20 aluminum (see [05-Bed-Frame](05-Bed-Frame)), allowing for seating in the middle once the top pieces are removed and slid over. On the left side, the cabinet folds down to rest on a post that comes up in the middle, to create a large table. 
 
 > The bed has three modes: 1) Bed, 2) Walk-Through and 3) Table
 
@@ -73,4 +73,4 @@ Since the floor was a mixture of oak and poplar, I wanted to continue that inter
 
 ---
 
-Next:  [02-Framing-Insulation-Window](02-Framing-Insulation-Window.md)
+Next:  [02-Framing-Insulation-Window](02-Framing-Insulation-Window)

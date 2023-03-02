@@ -41,17 +41,17 @@ See the table and links below for specific components used.
 
 | System     | Component                           | Model                         |
 | ---------- | ----------------------------------- | ----------------------------- |
-| 120V AC    | [Inverter-Charger](Inverter-Charger.md)                | AIMS 2500W Inverter/Charger   |
-| 120V AC    | [Induction-Cooktop](Induction-Cooktop.md)               | Summit Appliance              |
-| Solar      | [Solar-Panels](Solar-Panels.md)                    | 2 x 300W Renogy 24V Panels    |
+| 120V AC    | [Inverter-Charger](Inverter-Charger)                | AIMS 2500W Inverter/Charger   |
+| 120V AC    | [Induction-Cooktop](Induction-Cooktop)               | Summit Appliance              |
+| Solar      | [Solar-Panels](Solar-Panels)                    | 2 x 300W Renogy 24V Panels    |
 | Solar      | Solar Charger                       | Victron 100/50 Smart Solar    | 
-| Alternator | [Alternator-Charger](Alternator-Charger.md)              | Sterling B2B 1260             |
-| Batteries  | [Batteries](Batteries.md)                       | 2 x 200Ah Renogy LiFePO4      |
-| 12V DC     | [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay.md) | Victron BMV 712               |
-| 12V DC     | [Main-Battery-Disconnect](Main-Battery-Disconnect.md)         | Blue Seas ML-RBS 7700         |
-| 12V DC     | [12V-System](12V-System.md)                      |                               |
-| 12V DC     | [Fridge](Fridge.md)                          | Isotherm Cruise Elegance 130L |
+| Alternator | [Alternator-Charger](Alternator-Charger)              | Sterling B2B 1260             |
+| Batteries  | [Batteries](Batteries)                       | 2 x 200Ah Renogy LiFePO4      |
+| 12V DC     | [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay) | Victron BMV 712               |
+| 12V DC     | [Main-Battery-Disconnect](Main-Battery-Disconnect)         | Blue Seas ML-RBS 7700         |
+| 12V DC     | [12V-System](12V-System)                      |                               |
+| 12V DC     | [Fridge](Fridge)                          | Isotherm Cruise Elegance 130L |
 
 ---
 
-Next:  [07-Plumbing-Water-Heater](07-Plumbing-Water-Heater.md)
+Next:  [07-Plumbing-Water-Heater](07-Plumbing-Water-Heater)

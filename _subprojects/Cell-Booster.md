@@ -12,7 +12,7 @@ Tags: electrical
 
 The cell booster increases cell signal signal from 1 or 2 bars to 3 or 4. The WeBoost is plugged into one of the 120V outlets, but can also be wired directly into 12V (it is a 12V power supply). 
 
-The Antenna is mounted on the [Roof-Rack](Roof-Rack.md) with a Rhino Rack articulating mount, so it can be folded down when not in use. 
+The Antenna is mounted on the [Roof-Rack](Roof-Rack) with a Rhino Rack articulating mount, so it can be folded down when not in use. 
 
 The inside repeater is located in the recessed cabinet.
 
@@ -22,4 +22,4 @@ The inside repeater is located in the recessed cabinet.
 
 ---
 
-Next: [Ladder-Tire-Rack](Ladder-Tire-Rack.md)
+Next: [Ladder-Tire-Rack](Ladder-Tire-Rack)

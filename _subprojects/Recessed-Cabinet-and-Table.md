@@ -41,4 +41,4 @@ The table support is a wooden post mounted to a linear bearing that moves up and
 
 ---
 
-Next: [Final-Trimmings](Final-Trimmings.md)
+Next: [Final-Trimmings](Final-Trimmings)

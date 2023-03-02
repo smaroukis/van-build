@@ -10,11 +10,11 @@ featured_image: /img/ladder-tire-rack-outside-shower.jpg
 
 **Roof Rack**
 - powder coated unistrut, mounted with motor mounts to the OEM roof mounting points (M8 bolts)
-- see [Roof-Rack](Roof-Rack.md)
+- see [Roof-Rack](Roof-Rack)
 
 **Cell Service Booster**
 - A WeBoost was installed to boost cell signal in remote areas
-- See [Cell-Booster](Cell-Booster.md)
+- See [Cell-Booster](Cell-Booster)
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/roof-rack-header.jpg">
@@ -26,7 +26,7 @@ featured_image: /img/ladder-tire-rack-outside-shower.jpg
 
 **Ladder Rack** 
 - Aluminess, Inc Ladder + Tire rack combo 
-- See [Ladder-Tire-Rack](Ladder-Tire-Rack.md)
+- See [Ladder-Tire-Rack](Ladder-Tire-Rack)
 
 **Tires and Wheels**
 
@@ -34,10 +34,10 @@ The tires are BF Goodrich KO2 T/A LT255/70R16/E 120 (the largest you can add wit
 
 The wheels are Black Rhino 16" Glacier Matte Black.
 
-For more see [Tires-Wheels](Tires-Wheels.md).
+For more see [Tires-Wheels](Tires-Wheels).
 
 ![tires-cover](img/tires-cover.jpg)
 
 ---
 
-Next: [12-Honorable-Mentions](12-Honorable-Mentions.md)
+Next: [12-Honorable-Mentions](12-Honorable-Mentions)

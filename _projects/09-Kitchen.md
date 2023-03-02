@@ -10,7 +10,7 @@ On this page you'll find information about the farmhouse sink, kitchen cabinets,
 
 The cabinets were custom made from 1/2" and 3/4" baltic birch with a toe kick added for extra space. The drawers were faced with reclaimed 3/4" oak from the farm - planing those old oak boards down was no joke!
 
-See [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers.md) for details.
+See [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers) for details.
 
 <div class="gallery" data-columns="3">
 	<img src="/img/cabinet-header.jpg">
@@ -20,7 +20,7 @@ See [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers.md) for details.
 
 ## Kitchen Countertop, Sink and Faucet
 
-The counter was built out of acacia butcher block, designed around a farmhouse sink. See [Kitchen-Countertop](Kitchen-Countertop.md) for more details.
+The counter was built out of acacia butcher block, designed around a farmhouse sink. See [Kitchen-Countertop](Kitchen-Countertop) for more details.
 
 The farmhouse sink measured 22 3/8" x 16" x 7 11/16", providing ample space for washing and drying dishes.
 
@@ -48,4 +48,4 @@ The fridge is a marine-grade Isotherm Cruise Elegance 130L, which is ample space
 
 ---
 
-Next: [10-Recessed-Cabinets-Table-Final-Trim](10-Recessed-Cabinets-Table-Final-Trim.md)
+Next: [10-Recessed-Cabinets-Table-Final-Trim](10-Recessed-Cabinets-Table-Final-Trim)

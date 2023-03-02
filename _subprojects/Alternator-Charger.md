@@ -22,4 +22,4 @@ Ford alternator specifications:
 
 ---
 
-Next: [Inverter-Charger](Inverter-Charger.md)
+Next: [Inverter-Charger](Inverter-Charger)

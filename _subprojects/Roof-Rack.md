@@ -23,4 +23,4 @@ Rivet nuts were added to the solar panel aluminum frame for mounting. They attac
 
 ---
 
-Next: [Cell-Booster](Cell-Booster.md)
+Next: [Cell-Booster](Cell-Booster)

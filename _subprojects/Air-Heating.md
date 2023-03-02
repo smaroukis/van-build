@@ -49,4 +49,4 @@ When we increase in altitude we have less O2 in the air, but the CO2 stays relat
 
 ---
 
-Next: [09-Kitchen](09-Kitchen.md)
+Next: [09-Kitchen](09-Kitchen)

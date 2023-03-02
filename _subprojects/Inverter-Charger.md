@@ -31,4 +31,4 @@ The inverter is protected by a 250A circuit breaker (no manual trip, trip on ove
 
 ---
 
-Next: [12V-System](12V-System.md)
+Next: [12V-System](12V-System)

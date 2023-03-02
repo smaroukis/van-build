@@ -34,4 +34,4 @@ The refrigerator should be defrosted when the layer of frost on the evaporator r
 
 ---
 
-Next: [Induction-Cooktop](Induction-Cooktop.md)
+Next: [Induction-Cooktop](Induction-Cooktop)

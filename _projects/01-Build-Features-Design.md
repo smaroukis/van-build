@@ -25,12 +25,12 @@ The bed converts into both a table and a walk-through area. During the day, the 
 
 The bed frame is made out of T-slotted aluminum to maximize the strength-to-weight ratio.
 
-For air heating the gasoline tank's auxiliary fuel port is used to supply a gasoline-fired **Webasto Air Top 2000** (→ [Air-Heating](Air-Heating.md)), and the water heating comes from the van's engine using a 5 Gallon **Isotemp Spa** [Water-Heater](Water-Heater.md). A large **Skylight** (→[Skylight and Fan](Skylight%20and%20Fan.md)) provides privacy and good natural lighting at the same time.
+For air heating the gasoline tank's auxiliary fuel port is used to supply a gasoline-fired **Webasto Air Top 2000** (→ [Air-Heating](Air-Heating)), and the water heating comes from the van's engine using a 5 Gallon **Isotemp Spa** [Water-Heater](Water-Heater). A large **Skylight** (→[Skylight and Fan](Skylight%20and%20Fan)) provides privacy and good natural lighting at the same time.
 
-For added traction in the snow and mud, we added the largest All-Terrain tires possible without having to modify the pinch welds, and built a custom traction board mount that bolts onto the **Ladder Rack** (→ [Ladder-Tire-Rack](Ladder-Tire-Rack.md)).
+For added traction in the snow and mud, we added the largest All-Terrain tires possible without having to modify the pinch welds, and built a custom traction board mount that bolts onto the **Ladder Rack** (→ [Ladder-Tire-Rack](Ladder-Tire-Rack)).
 
 
-Below are examples of the full table of features found in [Feature-List](Feature-List.md)
+Below are examples of the full table of features found in [Feature-List](Feature-List)
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/feature-1.png">
@@ -40,4 +40,4 @@ Below are examples of the full table of features found in [Feature-List](Feature
 
 ---
 
-Next: [02-Framing-Insulation-Window](02-Framing-Insulation-Window.md)
+Next: [02-Framing-Insulation-Window](02-Framing-Insulation-Window)

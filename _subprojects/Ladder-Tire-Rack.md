@@ -14,4 +14,4 @@ The installation is straightforward, but requires some extra hands for positioni
 
 ---
 
-Next: [Tires-Wheels](Tires-Wheels.md)
+Next: [Tires-Wheels](Tires-Wheels)

@@ -69,4 +69,4 @@ Showing the walls attached
 
 ---
 
-Next:  [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan.md)
+Next:  [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan)

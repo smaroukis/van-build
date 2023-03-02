@@ -10,7 +10,7 @@ To add various storage compartments, the whole frame was modeled in 3D before ma
 
 To finish the frame it was faced with various 1/4" oak strips, 1/2" baltic birch, and 1/8" luan plywood.
 
-For more details see [Bed-Frame-Details](Bed-Frame-Details.md).
+For more details see [Bed-Frame-Details](Bed-Frame-Details).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/design-autocad.jpg">
@@ -23,5 +23,5 @@ For more details see [Bed-Frame-Details](Bed-Frame-Details.md).
 
 ---
 
-Next:  [06-Electrical-Systems](06-Electrical-Systems.md)
+Next:  [06-Electrical-Systems](06-Electrical-Systems)
 

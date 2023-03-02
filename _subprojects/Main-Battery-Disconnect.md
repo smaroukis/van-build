@@ -30,4 +30,4 @@ Actual wiring. The only difference is that we have added an input to Pin 1 which
 
 ---
 
-Next: [Alternator-Charger](Alternator-Charger.md)
+Next: [Alternator-Charger](Alternator-Charger)

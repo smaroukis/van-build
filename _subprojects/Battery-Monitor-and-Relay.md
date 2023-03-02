@@ -54,4 +54,4 @@ For testing purposes see below:
 
 ---
 
-Next: [Main-Battery-Disconnect](Main-Battery-Disconnect.md)
+Next: [Main-Battery-Disconnect](Main-Battery-Disconnect)

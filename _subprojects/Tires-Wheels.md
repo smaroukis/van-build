@@ -17,4 +17,4 @@ Showing after the tires and wheels were installed, adding a few inches of cleara
 
 ---
 
-Next: [12-Honorable-Mentions](12-Honorable-Mentions.md)
+Next: [12-Honorable-Mentions](12-Honorable-Mentions)
