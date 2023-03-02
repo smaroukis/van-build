@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'webrick'
   gem 'jekyll-relative-links'
+  gem 'html-proofer'
 end
