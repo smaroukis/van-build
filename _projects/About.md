@@ -19,8 +19,6 @@ Over two years, my partner and I took an empty Ford Transit cargo van and conver
 	<img src = "/img/ladder-tire-rack-outside-shower.jpg"> 
 </div>
 
-_(Note: if you just want the cliff notes check out the full list of features in [Feature-List](Feature-List.md))_
-
 ## Thanks
 
 I couldn't have done this without the support of friends and family. Special thanks goes to my partner Midori, my parents, Andy, Jaymi, Takako, Dennis, and Steph (pictures in [Thanks-Gratitude](Thanks-Gratitude.md))
@@ -29,7 +27,7 @@ I couldn't have done this without the support of friends and family. Special tha
 
 **Reclaimed Hardwood Floors**
 
-The build started at my grandfather's farm in North Carolina, so it was fitting that the floors would come from there too. This led to the Japanese farmhouse aesthetic, inspired by _Totoro_, and realized via tatami mats, a traditional Japanese futon and natural wood trim - unfortunately I didn't have time for the [Shoji Screens](12-Honorable-Mentions.md)
+The build started at my grandfather's farm in North Carolina, so it was fitting that the floors would come from there too. This led to the Japanese farmhouse aesthetic, inspired by _My Neighbor Totoro_, and realized via tatami mats, a traditional Japanese futon and natural wood trim - unfortunately I didn't have time for the [Shoji Screens](12-Honorable-Mentions.md)
 
 <div class="gallery" data-columns="3">
 	<img src="/img/hardwood-1.jpg">
