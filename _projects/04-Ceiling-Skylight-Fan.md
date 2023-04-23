@@ -3,7 +3,7 @@ index: 11
 title: "04 Ceiling. Skylight. Fan"
 featured_image: /img/skylight-fan-header.jpg
 ---
-## Skylight and Fan
+## Skylight-and-Fan
 
 **Skylight**
 
@@ -22,7 +22,7 @@ We installed the largest skylight we could find. Installation was tricky, due to
 
 A MaxxAir MaxxFan Deluxe 7000K model was installed which can be opened even during rainy conditions.
 
-For more details on both see [Skylight and Fan](Skylight%20and%20Fan).
+For more details on both see [Skylight-and-Fan](Skylight%20and%20Fan).
 
 ## Ceiling 
 

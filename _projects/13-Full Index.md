@@ -21,7 +21,7 @@ featured_image: /img/van-desert.jpg
 - [Walls-Partition-Wall](Walls-Partition-Wall)
 
 [04-Ceiling-Skylight-Fan](04-Ceiling-Skylight-Fan)
-- [Skylight and Fan](Skylight%20and%20Fan)
+- [Skylight-and-Fan](Skylight%20and%20Fan)
 - [Ceiling](Ceiling)
 
 [05-Bed-Frame](05-Bed-Frame)

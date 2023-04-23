@@ -28,7 +28,7 @@ The van is a 2019 Ford Transit T250 148" Extended Length, 3.7 liter V6 (RWD). He
 | Custom soft close cabinets: shaker style cabinet doors and reclaimed oak drawers s                                  | [Kitchen-Cabinet-and-Drawers](Kitchen-Cabinet-and-Drawers) |
 | Farmhouse kitchen sink: 24" x 16"                                                                                   | [Kitchen-Countertop](Kitchen-Countertop)                   |
 | Matte Black Vigo Greenwich Pull Down Single Handle Kitchen Faucet                                                   |                                                               |
-| Large Skylight                                                                                                      | [Skylight and Fan](Skylight%20and%20Fan)        |
+| Large Skylight                                                                                                      | [Skylight-and-Fan](Skylight%20and%20Fan)        |
 | Aluminum bed frame to save weight                                                                                   | [05-Bed-Frame](05-Bed-Frame)                               |
 | Passenger Side Recessed Cabinet built into the van side wall cavity to maximize living space                        | [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table)   |
 | Large table for working folds down from the recessed cabinet                                                        | [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table)   |
@@ -41,7 +41,7 @@ The van is a 2019 Ford Transit T250 148" Extended Length, 3.7 liter V6 (RWD). He
 | ------------------------------------------------------------------------- | ------------------------------------------------------ |
 | Insulation - Havelock Wool and Reflectix behind wall panels               | [Insulation-Framing](Insulation-Framing)            |
 | Webasto Airtop 2000 Gasoline heater with rheostat                         | [Air-Heating](Air-Heating)               |
-| MaxxAir 10 Speed MaxxFan with remote control and rain cover               | [Skylight and Fan](Skylight%20and%20Fan) |
+| MaxxAir 10 Speed MaxxFan with remote control and rain cover               | [Skylight-and-Fan](Skylight%20and%20Fan) |
 | Insulated partition wall with double dutch doors and overhead cab storage | [Walls-Partition-Wall](Walls-Partition-Wall)        |
 
 ### Electrical  

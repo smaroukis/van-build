@@ -25,7 +25,7 @@ The bed converts into both a table and a walk-through area. During the day, the 
 
 The bed frame is made out of T-slotted aluminum to maximize the strength-to-weight ratio.
 
-For air heating the gasoline tank's auxiliary fuel port is used to supply a gasoline-fired **Webasto Air Top 2000** (→ [Air-Heating](Air-Heating)), and the water heating comes from the van's engine using a 5 Gallon **Isotemp Spa** [Water-Heater](Water-Heater). A large **Skylight** (→[Skylight and Fan](Skylight%20and%20Fan)) provides privacy and good natural lighting at the same time.
+For air heating the gasoline tank's auxiliary fuel port is used to supply a gasoline-fired **Webasto Air Top 2000** (→ [Air-Heating](Air-Heating)), and the water heating comes from the van's engine using a 5 Gallon **Isotemp Spa** [Water-Heater](Water-Heater). A large **Skylight** (→[Skylight-and-Fan](Skylight%20and%20Fan)) provides privacy and good natural lighting at the same time.
 
 For added traction in the snow and mud, we added the largest All-Terrain tires possible without having to modify the pinch welds, and built a custom traction board mount that bolts onto the **Ladder Rack** (→ [Ladder-Tire-Rack](Ladder-Tire-Rack)).
 

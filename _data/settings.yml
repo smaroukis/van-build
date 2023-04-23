@@ -14,7 +14,7 @@ menu_settings:
     - title: 'About Me'
       url: '/about-me'
     - title: 'Thanks'
-      url: '/Thanks-Gratitude'
+      url: '/thanks-gratitude'
     - title: 'Behind the Scenes'
       url: '/behind-the-scenes'
 
