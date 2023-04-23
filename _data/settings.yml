@@ -9,6 +9,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Overview'
+      url: '/overview'
     - title: 'About Me'
       url: '/about-me'
     - title: 'Thanks'

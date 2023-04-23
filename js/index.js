@@ -214,8 +214,9 @@
 						touchDrag: true,
 						pullDrag: false,
 						dots: true,
-						autoplay: false,
-						autoplayTimeout: 6000,
+						nav: true, 
+						autoplay: true,
+						autoplayTimeout: 3000,
 						autoHeight: true,
 						animateOut: 'fadeOut'
 					});

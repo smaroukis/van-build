@@ -1,0 +1,53 @@
+---
+layout: default
+title: 
+description: An off-grid campervan with a Japanese-farmhouse aeshtetic.
+featured_image: /img/social.jpg
+---
+
+<!-- TODO update social share featured_image -->
+
+<div>
+<section class="intro" id="index-intro" >
+	<div class="wrap">
+		<p> Over two years my partner and I took a bare metal cargo van and converted it to an off-grid <a href="/06-electrical-systems">solar and battery</a> powered camper van.
+		<p> The project forced me to get hands on and learn new skills in design, 3D modeling, solar and battery systems, woodworking, plumbing, welding and more. </p>	
+		<p>
+		You can start at <a href="/about">About</a> or see the page below for overviews of the systems. For the truly curious check out <a href="/behind-the-scenes">Behind The Scenes</a> for even more build details.
+		</p>
+	</div>
+</section>
+</div>
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% assign sorted_projects = site.projects | sort: 'index' %}
+		{% for project in sorted_projects %}
+		<!-- { for project in site.projects } --> 
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
