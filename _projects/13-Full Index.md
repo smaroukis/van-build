@@ -5,6 +5,7 @@ featured_image: /img/van-desert.jpg
 ---
 
 [About](About)
+
 [Thanks-Gratitude](Thanks-Gratitude)
 
 [01-Build-Features-Design](01-Build-Features-Design)

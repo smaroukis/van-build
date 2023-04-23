@@ -9,4 +9,4 @@ I'm a power systems engineer by training with a desire to always get more hands 
 
 Get in touch at <https://maroukis.net> or check out some of my musings over at <https://blog.maroukis.net>.
 
-
+![me working on the bed frame](/img/bed-frame-header.png)

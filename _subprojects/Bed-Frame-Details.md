@@ -1,4 +1,8 @@
-
+---
+index: 14
+title: "→ Bed Frame"
+featured_image: /img/bed-frame-header.png
+---
 
 ## Summary
 - 1515 series (1.5" x 1.5") T-slotted extruded aluminum (brand name: 80/20), fastened with 1/4" thick aluminum angle, 1/2" length pan head hex drive bolts, and T-channel sliding nuts

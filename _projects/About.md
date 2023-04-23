@@ -1,6 +1,6 @@
 ---
 index: 1
-title: "About This Project"
+title: "00 Intro"
 featured_image: /img/00-header.jpg
 ---
 
