@@ -14,7 +14,9 @@ Tags: battery, electrical
 
 **System Diagram:**
 
-![system-solar](img/system-solar.png)
+![system diagram](img/screen-main-bat.png)
+
+(See full resolution pdf at [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf))
 
 The batteries are Renogy brand 200Ah LiFePO4 with integrated bluetooth. The (2) 200Ah batteries are wired in parallel, to deliver 400Ah of storage at the nominal 12 volts. 
 
@@ -52,13 +54,12 @@ In the diagram you can see the Shunt is connected between the Negative of the pa
 - BMS: Battery Management System - protects the internal battery cells from over/under voltage (usually inaccessible to the user)
 - BMV: Battery Voltage Monitor - here we are talking about the Victron BMV 712; this provides the *system* level over and under voltage protection
 
+## Aside
 
+You'll notice the Batteries page featured image is different than some of the others. This is because I originally built my own bank out of individual 3.65V cells, and later upgraded to a trusted brand before selling the van (→ [12-Honorable-Mentions](12-Honorable-Mentions)). 
+
+## CAD Drawings
 Full-size PDF CAD diagrams of the system can be found below:
 - [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
 - [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
 - [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
-
-
-## Aside
-
-You'll notice the Batteries page featured image is different than some of the others. This is because I originally built my own bank out of individual 3.65V cells, and later upgraded to a trusted brand before selling the van (→ [12-Honorable-Mentions](12-Honorable-Mentions)). 

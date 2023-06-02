@@ -13,13 +13,14 @@ The B2B1260 alternator charger is a DC-DC converter that takes the varying volta
 
 The B2B  is needed since on modern cars the output voltage of the alternator/starter battery can vary widely due to regenerative braking amongst other things. The converter makes sure the voltage is at the right level to charge the batteries as well as using the right charging profile for the Lithium batteries.
 
-![system-b2b.png](img/system-b2b.png)
+![alternator charger](img/screen-b2b.png)
+
+(See full resolution image of the system at [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf))
 
 Ford alternator specifications: 
 - [See BEM](https://www.etis.ford.com/bemm/bemmSelectionForm.do?chosenmodel=Transit) manual: 165A or 240A
 
 ![alternator-curve](img/alternator-curve.png)
-
 
 Full-size PDF CAD diagrams of the system can be found below:
 - [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)

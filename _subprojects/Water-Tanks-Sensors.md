@@ -26,12 +26,17 @@ Pump switch and tank level display:
 
 Sensor installation example ([source](https://www.classacustoms.com/KIB-Water-Tank-Monitor-Installation-and-Water-Tank-Probes_b_19.html)):
 
+The schematic shows the wiring from the Micro Monitor/KIB panel (which includes the pump switch) and the fresh (blue) and grey (brown) connections to the water tank harness red wire (shown in the following image).
+
+![schematic](img/screen-water.png)
+
 ![tank-sensors](img/tank-sensors.png)
 
 Routing of the PVC from the shower (rear) into the grey water 
 
 ![IMG_4916](img/IMG_4916.jpg)
 
+## CAD Drawings
 
 Full-size PDF CAD diagrams of the system can be found below:
 - [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)

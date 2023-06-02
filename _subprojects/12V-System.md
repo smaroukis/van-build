@@ -6,7 +6,9 @@ featured_image: /img/12v-header.jpeg
 
 The 12V system is protected by a 60A breaker feeding the Blue Sea 12V 12-circuit fuse holder on the passenger side wall of the electrical system.
 
-![]
+Below is the 12V distribution fuse block which shows the connected loads. Also see [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) for the high-res pdf version.
+
+![12v system](img/screen-12v.png)
 
 > Pro Tip: Add a 12V bus bar in places like the back of the van or the other side, so you can add more small appliances later (like LEDs, toilet fans, etc) without having to re-route across the whole van.
 
@@ -28,6 +30,8 @@ Custom bus bar made from copper.
 
 ![electrical-2](img/electrical-2.jpeg)
 
+
+## CAD Drawings
 
 Full-size PDF CAD diagrams of the system can be found below:
 - [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)

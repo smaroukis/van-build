@@ -20,7 +20,7 @@ The shunt is installed on the negative side of the paralleled batteries - all th
 
 Additionally there is a red wire connected directly to the + terminal of one of the batteries which gives the real time voltage. This also is how the BMV display is powered. This is fused at 2A with an inline fuse. 
 
-![van-battery 1.png](img/van-battery%201.png)
+![shunt](img/screen-shunt.png)
 
 ## Protection
 
@@ -30,9 +30,7 @@ The alarm should be set to activate before the protection setting so that you ca
 
 ⚠️ If the relay activates and trips the ML-RBS main switch, make sure that the relay is **open** before trying to reconnect the batteries with the main switch pushbutton. This can be done from the Victron app (preferred) or by disconnecting the blade terminals going into the COM port (disconnecting the 12V supply to the relay will force the NO port to 0V - which is the same as in the open position).  For more info see the Note at the end of this document.
 
-![van-bmv-relay.png](img/van-bmv-relay.png)
-
-![van-bmv-contura-switch.png](img/van-bmv-contura-switch.png)
+![contura switch and relay](img/bmv-relay-circuit.png)
 
 ![The red wire going into the N.O. relay connects to the orange pin #1 of the ML-RBS main switch. The yellow wire is the 12V supply into COM which has the spade terminal disconnect in-line.](img/bmv-rear.jpeg)
 
@@ -52,6 +50,7 @@ For testing purposes see below:
 
 ![van-bmv-relay-tests.png](img/van-bmv-relay-tests.png)
 
+## CAD Drawings
 
 Full-size PDF CAD diagrams of the system can be found below:
 - [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
