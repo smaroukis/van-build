@@ -29,6 +29,12 @@ The inverter is protected by a 250A circuit breaker (no manual trip, trip on ove
 
 ⚠️ There is a limitation on charging the batteries. The charging profile selected is at a lower voltage than the recommended 14.2V for LiFePO4 batteries (likely since this inverter was designed before the proliferation of LiFePO4 batteries). This means the batteries will not be fully charged by the shore power itself. If you plan on going off grid for a while, use the AIMS overnight, and then leave the van in the sun to “top off” with the solar (which uses a more up-to-date charging profile).
 
+
+Full-size PDF CAD diagrams of the system can be found below:
+- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
+
 ---
 
 Next: [12V-System](12V-System)

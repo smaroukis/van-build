@@ -28,12 +28,17 @@ Lithium Ion Phosphate (LiFePO4) batteries, although expensive, were chosen due t
 Diagrams of the 120V, solar, alternator charger, and relay circuits are shown below (click to enlarge). For more detail see the individual page in the table above.
 
 <div class='gallery' data-columns='3'>
-	<img src="/img/system-120v.png">
-	<img src="/img/system-solar.png">
-	<img src="/img/system-b2b.png">
-	<img src="/img/van-bmv-contura-switch.png">
-	<img src="/img/van-bmv-relay.png">
+	<img src="/img/screen-ac.png">
+	<img src="/img/screen-main-bat.png">
+	<img src="/img/screen-12v.png">
+	<img src="/img/screen-bmv.png">
+	<img src="/img/screen-b2b.png">
 </div>
+
+Full-size PDF CAD diagrams of the system can be found below:
+- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
 
 ## Table of Components 
 
