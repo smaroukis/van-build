@@ -6,7 +6,7 @@ featured_image: /img/12v-header.jpeg
 
 The 12V system is protected by a 60A breaker feeding the Blue Sea 12V 12-circuit fuse holder on the passenger side wall of the electrical system.
 
-Below is the 12V distribution fuse block which shows the connected loads. Also see [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) for the high-res pdf version.
+Below is the 12V distribution fuse block which shows the connected loads. Also see [DWG-03-12V-SYSTEM]( /pdf/DWG-03-12V-SYSTEM.pdf) for the high-res pdf version.
 
 ![12v system](img/screen-12v.png)
 
@@ -34,9 +34,9 @@ Custom bus bar made from copper.
 ## CAD Drawings
 
 Full-size PDF CAD diagrams of the system can be found below:
-- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
-- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
-- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
+- [DWG-01-AC-SYSTEM]( /pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]( /pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
 
 ---
 

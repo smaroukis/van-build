@@ -9,7 +9,7 @@ Tags: electrical
 
 The AIMS power inverter is a bi-directional inverter/charger. This means it can invert from DC to AC (from 12V DC to 120V AC) but it can also convert from 120V AC shore power to 12V DC to charge the batteries. 
 
-See the drawings [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf) and [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf)
+See the drawings [DWG-01-AC-SYSTEM]( /pdf/DWG-01-AC-SYSTEM.pdf) and [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf)
 
 ## Shore Power
 
@@ -34,9 +34,9 @@ The inverter is protected by a 250A circuit breaker (no manual trip, trip on ove
 ## CAD Drawings
 
 Full-size PDF CAD diagrams of the system can be found below:
-- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
-- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
-- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
+- [DWG-01-AC-SYSTEM]( /pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]( /pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
 
 ---
 

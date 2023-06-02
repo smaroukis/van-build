@@ -38,9 +38,9 @@ Not shown above is the 60A circuit breaker on the 12V/battery side (the 24V/pane
 
 ## Full-size PDF CAD diagrams of the system can be found below:
 
-- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
-- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
-- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
+- [DWG-01-AC-SYSTEM]( /pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]( /pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
 
 ---
 

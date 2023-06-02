@@ -16,7 +16,7 @@ Tags: battery, electrical
 
 ![system diagram](img/screen-main-bat.png)
 
-(See full resolution pdf at [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf))
+(See full resolution pdf at [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf))
 
 The batteries are Renogy brand 200Ah LiFePO4 with integrated bluetooth. The (2) 200Ah batteries are wired in parallel, to deliver 400Ah of storage at the nominal 12 volts. 
 
@@ -60,6 +60,6 @@ You'll notice the Batteries page featured image is different than some of the ot
 
 ## CAD Drawings
 Full-size PDF CAD diagrams of the system can be found below:
-- [DWG-01-AC-SYSTEM]({{site.url}}/pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
-- [DWG-02-BATTERY-COMPARTMENT]({{site.url}}/pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
-- [DWG-03-12V-SYSTEM]({{site.url}}/pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
+- [DWG-01-AC-SYSTEM]( /pdf/DWG-01-AC-SYSTEM.pdf)(shows the inverter/charger and the shore power hookup)
+- [DWG-02-BATTERY-COMPARTMENT]( /pdf/DWG-02-BATTERY-COMPARTMENT.pdf) (shows the connections in the main electrical battery compartment and also the solar and alternator charger systems)
+- [DWG-03-12V-SYSTEM]( /pdf/DWG-03-12V-SYSTEM.pdf) (shows the 12V distribution fuse block, branch circuits, and loads)
