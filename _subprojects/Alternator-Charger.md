@@ -29,4 +29,4 @@ Full-size PDF CAD diagrams of the system can be found below:
 
 ---
 
-Next: [Inverter-Charger](Inverter-Charger)
+Next: [inverter-charger](inverter-charger.md)

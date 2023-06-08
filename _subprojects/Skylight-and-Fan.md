@@ -91,5 +91,5 @@ The MaxxAir MaxxFan is pretty standard on van builds - it can be used when it's 
 
 ---
 
-Next:  [Ceiling](Ceiling)
+Next:  [ceiling](ceiling.md)
 

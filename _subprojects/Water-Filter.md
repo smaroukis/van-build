@@ -13,4 +13,4 @@ The filter used is a ceramic and carbon 3 stage water filter from APEC. The thin
 
 ---
 
-Next: [08-Shower-Toilet-Heater](08-Shower-Toilet-Heater)
+Next: [08-shower-toilet-heater](08-shower-toilet-heater.md)

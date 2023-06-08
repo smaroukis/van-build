@@ -35,4 +35,4 @@ Selecting the door handles
 
 ---
 
-Next: [Fridge](Fridge)
+Next: [fridge](fridge.md)

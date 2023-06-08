@@ -23,4 +23,4 @@ The stove is routed through the back of the cabinet plugged into the outlet unde
 
 ---
 
-Next: [10-Recessed-Cabinets-Table-Final-Trim](10-Recessed-Cabinets-Table-Final-Trim)
+Next: [10-recessed-cabinets-table-final-trim](10-recessed-cabinets-table-final-trim.md)

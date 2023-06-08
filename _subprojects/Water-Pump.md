@@ -26,4 +26,4 @@ Diagram (T-fitting off the hot line to the sink is not shown)
 
 ---
 
-Next: [Water-Filter](Water-Filter)
+Next: [water-filter](water-filter.md)
