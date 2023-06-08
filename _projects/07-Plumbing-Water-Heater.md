@@ -14,11 +14,11 @@ A 20 gallon fresh water tank and a 15 gallon greywater tank are both installed u
 
 The sink and shower both have drainage into the grey water tank, over the drive shaft where necessary (the shower drains from the rear forward).
 
-The [water-pump](water-pump.md) is a 12V Shurflo 4008 without an accumulator due to space constraints. 
+The [water-pump](water-pump) is a 12V Shurflo 4008 without an accumulator due to space constraints. 
 
-The fresh water (cold side only) is filtered through a three stage carbon and ceramic APEC [water-filter](water-filter.md).
+The fresh water (cold side only) is filtered through a three stage carbon and ceramic APEC [water-filter](water-filter).
 
-See more in [water-tanks-sensors](water-tanks-sensors.md).
+See more in [water-tanks-sensors](water-tanks-sensors).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/water-filter-header.jpg">
@@ -30,7 +30,7 @@ See more in [water-tanks-sensors](water-tanks-sensors.md).
 
 Hot water is provided by the Isotemp SPA tank, which is plumbed in-line with the van engine coolant system to heat the water via hydronic heat exchange. 
 
-See details in  [water-heater](water-heater.md)
+See details in  [water-heater](water-heater)
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/IMG_2354.jpg">
@@ -44,4 +44,4 @@ See details in  [water-heater](water-heater.md)
 
 ---
 
-Next: [08-shower-toilet-heater](08-shower-toilet-heater.md)
+Next: [08-shower-toilet-heater](08-shower-toilet-heater)

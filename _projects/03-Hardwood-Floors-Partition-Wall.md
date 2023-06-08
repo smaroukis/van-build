@@ -10,7 +10,7 @@ The floors were made out of a combination of reclaimed poplar and oak that had b
 
 Since they were reclaimed and had their own character (read: warping), I filled in gaps larger than 1/16" with oak shims and then used commercial-grade wood filler to finish it off before applying three coats of glossy polyurethane.
 
-For full details see [hardwood-floors](hardwood-floors.md).
+For full details see [hardwood-floors](hardwood-floors).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/hardwood-1.jpg">
@@ -27,7 +27,7 @@ For full details see [hardwood-floors](hardwood-floors.md).
 
 A fixed partition wall with double dutch style doors was added for privacy and insulation while still providing access to the cab. 
 
-The same cedar planking later used for the ceiling (→[ceiling](ceiling.md)) gives a nice continuous visual transition from the ceiling to the floor.
+The same cedar planking later used for the ceiling (→[ceiling](ceiling)) gives a nice continuous visual transition from the ceiling to the floor.
 
 The cab overhead was converted to a large storage area. 
 
@@ -44,7 +44,7 @@ Carpet was used on the sliding door and trim areas that had more contours than w
 
 1/4" luan painted sheeting was nailed into the furring strips.
 
-For more details and build photos see [walls-partition-wall](walls-partition-wall.md).
+For more details and build photos see [walls-partition-wall](walls-partition-wall).
 
 <div class='gallery' data-columns='2'>
 	<img src="/img/walls-contour.jpg">
@@ -53,5 +53,5 @@ For more details and build photos see [walls-partition-wall](walls-partition-wal
 
 ---
 
-Next:  [04-ceiling-skylight-fan](04-ceiling-skylight-fan.md)
+Next:  [04-ceiling-skylight-fan](04-ceiling-skylight-fan)
 

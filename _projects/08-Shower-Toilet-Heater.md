@@ -10,7 +10,7 @@ The shower is built around a custom fabricated stainless steel shower pan with t
 
 A mounting bracket for the shower head is installed on the rear door to allow for outdoor showers.
 
-See [shower](shower.md) for details.
+See [shower](shower) for details.
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/08-header.jpg">
@@ -23,13 +23,13 @@ See [shower](shower.md) for details.
 
 A composting toilet (Nature's Head) is installed with the exhaust fan routed through the van floor.
 
-See [toilet](toilet.md) for details.
+See [toilet](toilet) for details.
 
 ## Heating (Air)
 
 A gasoline fired air heater (Webasto Air Top 2000 STC) is plumbed into the existing gasoline fuel tank.
 
-See [air-heating](air-heating.md) for details.
+See [air-heating](air-heating) for details.
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/heating-cover.jpeg">
@@ -39,4 +39,4 @@ See [air-heating](air-heating.md) for details.
 
 ---
 
-Next: [09-kitchen](09-kitchen.md)
+Next: [09-kitchen](09-kitchen)
