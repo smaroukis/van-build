@@ -27,6 +27,8 @@ Lithium Ion Phosphate (LiFePO4) batteries, although expensive, were chosen due t
 
 Diagrams of the 120V, solar, alternator charger, and relay circuits are shown below (click to enlarge). For more detail see the individual page in the table above.
 
+TODO - here we need to revert to the main branch images for all of the electrical diagrams
+
 <div class='gallery' data-columns='3'>
 	<img src="/img/system-120v.png">
 	<img src="/img/system-solar.png">
