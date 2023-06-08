@@ -1,4 +1,4 @@
 .*
 !.gitignore
 !.github/workflows/pages-deploy.yml
-docs/*
+docs/
