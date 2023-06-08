@@ -27,14 +27,12 @@ Lithium Ion Phosphate (LiFePO4) batteries, although expensive, were chosen due t
 
 Diagrams of the 120V, solar, alternator charger, and relay circuits are shown below (click to enlarge). For more detail see the individual page in the table above.
 
-TODO - here we need to revert to the main branch images for all of the electrical diagrams
-
 <div class='gallery' data-columns='3'>
-	<img src="/img/system-120v.png">
-	<img src="/img/system-solar.png">
-	<img src="/img/system-b2b.png">
-	<img src="/img/van-bmv-contura-switch.png">
-	<img src="/img/van-bmv-relay.png">
+	<img src="/img/screen-ac.png">
+	<img src="/img/screen-main-bat.png">
+	<img src="/img/screen-12v.png">
+	<img src="/img/screen-bmv.png">
+	<img src="/img/screen-b2b.png">
 </div>
 
 Full-size PDF CAD diagrams of the system can be found below:
@@ -48,17 +46,17 @@ See the table and links below for specific components used.
 
 | System     | Component                           | Model                         |
 | ---------- | ----------------------------------- | ----------------------------- |
-| 120V AC    | [inverter-charger](inverter-charger)                | AIMS 2500W Inverter/Charger   |
-| 120V AC    | [induction-cooktop](induction-cooktop)               | Summit Appliance              |
-| Solar      | [solar-panels](solar-panels)                    | 2 x 300W Renogy 24V Panels    |
+| 120V AC    | [Inverter-Charger](Inverter-Charger)                | AIMS 2500W Inverter/Charger   |
+| 120V AC    | [Induction-Cooktop](Induction-Cooktop)               | Summit Appliance              |
+| Solar      | [Solar-Panels](Solar-Panels)                    | 2 x 300W Renogy 24V Panels    |
 | Solar      | Solar Charger                       | Victron 100/50 Smart Solar    | 
-| Alternator | [alternator-charger](alternator-charger)              | Sterling B2B 1260             |
-| Batteries  | [batteries](batteries)                       | 2 x 200Ah Renogy LiFePO4      |
-| 12V DC     | [battery-monitor-and-relay](battery-monitor-and-relay) | Victron BMV 712               |
-| 12V DC     | [main-battery-disconnect](main-battery-disconnect)         | Blue Seas ML-RBS 7700         |
-| 12V DC     | [12V-system](12V-system)                      |                               |
-| 12V DC     | [fridge](fridge)                          | Isotherm Cruise Elegance 130L |
+| Alternator | [Alternator-Charger](Alternator-Charger)              | Sterling B2B 1260             |
+| Batteries  | [Batteries](Batteries)                       | 2 x 200Ah Renogy LiFePO4      |
+| 12V DC     | [Battery-Monitor-and-Relay](Battery-Monitor-and-Relay) | Victron BMV 712               |
+| 12V DC     | [Main-Battery-Disconnect](Main-Battery-Disconnect)         | Blue Seas ML-RBS 7700         |
+| 12V DC     | [12V-System](12V-System)                      |                               |
+| 12V DC     | [Fridge](Fridge)                          | Isotherm Cruise Elegance 130L |
 
 ---
 
-Next:  [07-plumbing-water-heater](07-plumbing-water-heater)
+Next:  [07-Plumbing-Water-Heater](07-Plumbing-Water-Heater)
