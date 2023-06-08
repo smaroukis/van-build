@@ -37,4 +37,4 @@ Full-size PDF CAD diagrams of the system can be found below:
 
 ---
 
-Next: [alternator-charger](alternator-charger.md)
+Next: [alternator-charger](alternator-charger)

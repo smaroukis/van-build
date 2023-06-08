@@ -40,4 +40,4 @@ Full-size PDF CAD diagrams of the system can be found below:
 
 ---
 
-Next: [12V-system](12V-system.md)
+Next: [12V-system](12V-system)

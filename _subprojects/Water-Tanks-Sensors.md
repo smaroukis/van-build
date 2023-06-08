@@ -45,4 +45,4 @@ Full-size PDF CAD diagrams of the system can be found below:
 
 ---
 
-Next: [water-heater](water-heater.md)
+Next: [water-heater](water-heater)

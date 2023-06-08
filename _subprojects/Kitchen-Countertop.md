@@ -39,4 +39,4 @@ Applying finishing coats
 
 ---
 
-Next: [kitchen-cabinet-and-drawers](kitchen-cabinet-and-drawers.md)
+Next: [kitchen-cabinet-and-drawers](kitchen-cabinet-and-drawers)

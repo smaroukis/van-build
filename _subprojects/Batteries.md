@@ -9,7 +9,7 @@ Tags: battery, electrical
 
 ## Summary
 - 2 x 200Ah Lithium Iron Phosphate (LiFePO4) Renogy batteries
-- Victron BMV712 battery shunt for monitoring State of Charge and controlling the [main-battery-disconnect](main-battery-disconnect.md) contactor for under voltage or state of charge trip off. 
+- Victron BMV712 battery shunt for monitoring State of Charge and controlling the [main-battery-disconnect](main-battery-disconnect) contactor for under voltage or state of charge trip off. 
 - wired into a custom copper bus bar through ML-RBS which functions as the main shutoff switch.
 
 **System Diagram:**
@@ -30,7 +30,7 @@ A typical LiFePO4 battery SoC vs voltage curve is as follows:
 
 ![6AC9E8FD-6F2B-4B66-A2C2-315A9B229882.png](img/6AC9E8FD-6F2B-4B66-A2C2-315A9B229882.png)
 
-⚠️ Due to the flatness of the LiFePO voltage vs SoC curve, we cannot use voltage as a good measure of how much energy is left in the battery → this is why we need a good shunt monitor (→ [battery-monitor-and-relay](battery-monitor-and-relay.md))
+⚠️ Due to the flatness of the LiFePO voltage vs SoC curve, we cannot use voltage as a good measure of how much energy is left in the battery → this is why we need a good shunt monitor (→ [battery-monitor-and-relay](battery-monitor-and-relay))
 
 You can inspect the battery health by performing load tests (search on Youtube). Each battery should be tested separately, as one bad battery can draw the voltage down of the other. 
 
@@ -57,7 +57,7 @@ In the diagram you can see the Shunt is connected between the Negative of the pa
 
 ## Aside
 
-You'll notice the Batteries page featured image is different than some of the others. This is because I originally built my own bank out of individual 3.65V cells, and later upgraded to a trusted brand before selling the van (→ [12-honorable-mentions](12-honorable-mentions.md)). 
+You'll notice the Batteries page featured image is different than some of the others. This is because I originally built my own bank out of individual 3.65V cells, and later upgraded to a trusted brand before selling the van (→ [12-honorable-mentions](12-honorable-mentions)). 
 
 
 ## CAD Drawings

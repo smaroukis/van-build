@@ -16,4 +16,4 @@ The solids will compost themself if the moisture level is kept correct and it is
 
 ---
 
-Next: [air-heating](air-heating.md)
+Next: [air-heating](air-heating)

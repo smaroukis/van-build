@@ -41,4 +41,4 @@ Trim for the control panel
 
 ---
 
-Next: [11-roof-ladder-rack-cell-booster](11-roof-ladder-rack-cell-booster.md)
+Next: [11-roof-ladder-rack-cell-booster](11-roof-ladder-rack-cell-booster)

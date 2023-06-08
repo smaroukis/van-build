@@ -44,4 +44,4 @@ Not shown above is the 60A circuit breaker on the 12V/battery side (the 24V/pane
 
 ---
 
-Next: [batteries](batteries.md)
+Next: [batteries](batteries)

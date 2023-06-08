@@ -6,7 +6,7 @@ featured_image: /img/03-hardwood-walls-cover.jpg
 
 ## Summary
 - wall furring strips: 1/2" treated ply strips (3" wide) were fastened to the van body with sheet metal screws
-- floor joists: 2x4's were laid out 18" on center apart (then [hardwood-floors](hardwood-floors.md) were installed over these)
+- floor joists: 2x4's were laid out 18" on center apart (then [hardwood-floors](hardwood-floors) were installed over these)
 - in thicker areas where screws wouldn't penetrate, rivet nits were used 
 - insulation: wool made for building insulation (havelock wool) was used - 
 - insulation - radiant barrier: Reflectix
@@ -80,4 +80,4 @@ Window framing
 
 ---
 
-Next:  [driver-side-window](driver-side-window.md)
+Next:  [driver-side-window](driver-side-window)

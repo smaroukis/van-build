@@ -41,4 +41,4 @@ The manual does say to drain the tank when there is a chance of freezing, but si
 
 ---
 
-Next: [water-pump](water-pump.md)
+Next: [water-pump](water-pump)

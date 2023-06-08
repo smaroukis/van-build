@@ -57,4 +57,4 @@ Thin shims were used to fill gaps that widened after a few months, and then I us
 
 ---
 
-Next:  [walls-partition-wall](walls-partition-wall.md)
+Next:  [walls-partition-wall](walls-partition-wall)

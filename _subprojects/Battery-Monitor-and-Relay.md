@@ -59,4 +59,4 @@ Full-size PDF CAD diagrams of the system can be found below:
 
 ---
 
-Next: [main-battery-disconnect](main-battery-disconnect.md)
+Next: [main-battery-disconnect](main-battery-disconnect)

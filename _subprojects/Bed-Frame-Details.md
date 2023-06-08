@@ -22,7 +22,7 @@ featured_image: /img/bed-frame-header.png
 
 Aluminum is used to save weight, albeit at a significant increase in cost over wood. In my calculations it is about 5x more expensive than building out of wood, but also about 1/3rd lighter (depending on face panels), and resistant to mold or warping. 
 
-The design is a U-shape allowing you to sit in the middle and work at a pop-up table (see [recessed-cabinet-and-table](recessed-cabinet-and-table.md)). It is  also designed so that you could walk through to the rear, which ended up being one of my favorite design features.
+The design is a U-shape allowing you to sit in the middle and work at a pop-up table (see [recessed-cabinet-and-table](recessed-cabinet-and-table)). It is  also designed so that you could walk through to the rear, which ended up being one of my favorite design features.
 
 > AutoCad was used to get the correct dimensioning of the T-slots for a more complicated shape including drawers and a raised walkway.
 
@@ -88,4 +88,4 @@ Bed with panels removed showing storage
 
 ---
 
-Next:  [06-electrical-systems](06-electrical-systems.md)
+Next:  [06-electrical-systems](06-electrical-systems)

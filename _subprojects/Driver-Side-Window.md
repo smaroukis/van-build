@@ -33,4 +33,4 @@ The adhesive product used was SikaFlex P2G Automotive Urethane Adhesive. Note on
 
 ---
 
-Next:  [03-hardwood-floors-partition-wall](03-hardwood-floors-partition-wall.md)
+Next:  [03-hardwood-floors-partition-wall](03-hardwood-floors-partition-wall)
