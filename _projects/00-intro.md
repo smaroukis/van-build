@@ -21,13 +21,13 @@ Over two years, my partner and I took an empty Ford Transit cargo van and conver
 
 ## Thanks
 
-I couldn't have done this without the support of friends and family. Special thanks goes to my partner Midori, my parents, Andy, Jaymi, Takako, Dennis, and Steph (pictures in [Thanks-Gratitude](Thanks-Gratitude))
+I couldn't have done this without the support of friends and family. Special thanks goes to my partner Midori, my parents, Andy, Jaymi, Takako, Dennis, and Steph (pictures in [thanks-gratitude](thanks-gratitude.md))
 
 ## Build Highlights
 
 **Reclaimed Hardwood Floors**
 
-The build started at my grandfather's farm in North Carolina, so it was fitting that the floors would come from there too. This led to the Japanese farmhouse aesthetic, inspired by _My Neighbor Totoro_, and realized via tatami mats, a traditional Japanese futon and natural wood trim - unfortunately I didn't have time for the [Shoji Screens](12-Honorable-Mentions)
+The build started at my grandfather's farm in North Carolina, so it was fitting that the floors would come from there too. This led to the Japanese farmhouse aesthetic, inspired by _My Neighbor Totoro_, and realized via tatami mats, a traditional Japanese futon and natural wood trim - unfortunately I didn't have time for the [Shoji Screens](12-honorable-mentions.md)
 
 <div class="gallery" data-columns="3">
 	<img src="/img/hardwood-1.jpg">
@@ -37,7 +37,7 @@ The build started at my grandfather's farm in North Carolina, so it was fitting 
 
 **Electric-First**
 
-A personal goal of mine was to design an off-grid electrical system, and even more so to have no propane in the van. With the extended length Ford Transit version it allowed us to put two 300W solar panels on the roof which was enough to keep the batteries charged even when using an 1800W power-hungry induction cooktop. As any good engineer I also added backup resources such as an [Alternator-Charger](Alternator-Charger) and shore power hookup. 
+A personal goal of mine was to design an off-grid electrical system, and even more so to have no propane in the van. With the extended length Ford Transit version it allowed us to put two 300W solar panels on the roof which was enough to keep the batteries charged even when using an 1800W power-hungry induction cooktop. As any good engineer I also added backup resources such as an [alternator-charger](alternator-charger.md) and shore power hookup. 
 
 The hot water was realized by taking a page from the boat-designers and rerouting the van's coolant system through a hot water heat exchanger - the heat exchanger was insulated enough so that even after 30 minutes of driving you'd have hot water for a full day.
 
@@ -90,4 +90,4 @@ Some things I learned along the way
 
 ---
 
-Next: [01-Build-Features-Design](01-Build-Features-Design)
+Next: [01-build-features-design](01-build-features-design.md)

@@ -25,7 +25,7 @@ The Japanese design aesthetic *would* have been completed by custom hand-built s
 
 I thought I could save a pretty penny by buying the LiFePO4 cells directly from China and adding in my own Battery Management System. 
 
-I went so far as to build battery cases for them, balanced the cells after usage, and installing them. But in the end I couldn't sell a product with such a critical part of the system as a DIY hack, so I eventually purchased batteries from Renogy (see [Batteries](Batteries)).
+I went so far as to build battery cases for them, balanced the cells after usage, and installing them. But in the end I couldn't sell a product with such a critical part of the system as a DIY hack, so I eventually purchased batteries from Renogy (see [batteries](batteries.md)).
 
 ![12-header](img/12-header.png)
 

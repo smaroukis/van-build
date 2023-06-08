@@ -3,7 +3,7 @@ index: 11
 title: "04 Ceiling. Skylight. Fan"
 featured_image: /img/skylight-fan-header.jpg
 ---
-## Skylight-and-Fan
+## Skylight and Fan
 
 **Skylight**
 
@@ -22,13 +22,13 @@ We installed the largest skylight we could find. Installation was tricky, due to
 
 A MaxxAir MaxxFan Deluxe 7000K model was installed which can be opened even during rainy conditions.
 
-For more details on both see [Skylight-and-Fan](Skylight%20and%20Fan).
+For more details on both see [skylight-and-fan](skylight-and-fan.md).
 
 ## Ceiling 
 
 The ceiling was made out of the same 1/8" thick cedar tongue and groove strips as the partition wall facing, which allowed the ceiling to flex to the curvature of the van. The front and rear end battens were tricky to install since there aren't van cross members, so some creativity and custom brackets were required.
 
-For more details see [Ceiling](Ceiling).
+For more details see [ceiling](ceiling.md).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/ceiling-header.jpg">
@@ -39,4 +39,4 @@ For more details see [Ceiling](Ceiling).
 
 ---
 
-Next: [05-Bed-Frame](05-Bed-Frame)
+Next: [05-bed-frame](05-bed-frame.md)

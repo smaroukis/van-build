@@ -10,7 +10,7 @@ A key component of the build was storage, so to maximize the space we recessed a
 
 The cabinet itself was a modified Ikea IVAR shelf faced with maple. A drop-table was added that rests on a post attached to the bed frame via a linear bearing. 
 
-For more details see [Recessed-Cabinet-and-Table](Recessed-Cabinet-and-Table).
+For more details see [recessed-cabinet-and-table](recessed-cabinet-and-table.md).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/recessed-header-cropped.png">
@@ -26,7 +26,7 @@ Entry ways and bed frame were lined with durable oak.
 
 Nautical deck lights were painted black to give a more unique and homey feel than standard puck-lights.
 
-For more see [Final-Trimmings](Final-Trimmings).
+For more see [final-trimmings](final-trimmings.md).
 
 <div class='gallery' data-columns='3'>
 	<img src="/img/trim-header.jpg">
@@ -36,4 +36,4 @@ For more see [Final-Trimmings](Final-Trimmings).
 
 ---
 
-Next: [11-Roof-Ladder-Rack-Cell-Booster](11-Roof-Ladder-Rack-Cell-Booster)
+Next: [11-roof-ladder-rack-cell-booster](11-roof-ladder-rack-cell-booster.md)
