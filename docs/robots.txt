@@ -1,1 +1,1 @@
-Sitemap: https://van.maroukis.net/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
