@@ -17,7 +17,7 @@ The Shore Power plug is a Smart Plug 30A. This allows an upgrade to an AC unit w
 
 The inverter, if ON, will automatically switch to charge mode upon sensing AC source (15s delay). There is a light on the display panel saying that the charge is enabled - this means that shore power is active. Once shore power is active we are no longer using the “inverter”, so the comment about not running the stove at full power with other devices on does not apply anymore. 
 
-![system-120v.png](img/system-120v.png)
+![system 12v](img/screen-ac.png)
 
 ## Inverter
 
