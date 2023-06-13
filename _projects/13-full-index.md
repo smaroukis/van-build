@@ -4,7 +4,7 @@ index: 46
 featured_image: /img/van-desert.jpg
 ---
 
-[00-intro](00-intro)
+[00-intro](intro)
 [thanks-gratitude](thanks-gratitude)
 
 [01-build-features-design](01-build-features-design)
