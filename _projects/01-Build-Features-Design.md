@@ -2,7 +2,6 @@
 title: "01 Features. Design. Layout"
 index: 2
 featured_image: /img/01-header.jpg
-TODO: a final link go through, gallery
 ---
 
 ## Design and Layout
