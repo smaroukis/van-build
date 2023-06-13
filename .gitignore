@@ -2,4 +2,3 @@
 !.gitignore
 !.nojekyll
 !.github/workflows/pages-deploy.yml
-docs/
